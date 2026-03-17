@@ -68,6 +68,12 @@ $navbar-hl:              #63bcd2;
 }
 
 /* ── About / index page ───────────────────────────────────── */
+
+/* Constrain image column to half the width of the content column */
+.quarto-about-trestles {
+  grid-template-columns: 1fr 2fr !important;
+}
+
 .about-entity .about-image img {
   border-radius: 8px;
   box-shadow: 0 6px 24px rgba(0,0,0,0.15);

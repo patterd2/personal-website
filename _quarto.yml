@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - assets/cv.pdf
 
 website:
   title: "Denis Patterson"
