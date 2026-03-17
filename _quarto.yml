@@ -29,3 +29,5 @@ format:
     theme: [flatly, custom.scss]
     toc: false
     link-external-newwindow: true
+    title-block-banner: "#1e2d3d"
+    title-block-banner-color: "#ffffff"

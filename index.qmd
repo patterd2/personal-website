@@ -13,7 +13,9 @@ about:
       href: assets/cv.pdf
     - icon: mortarboard
       text: Google Scholar
-      href: https://scholar.google.com
+      href: https://scholar.google.com/citations?user=MySHM30AAAAJ&hl=en
+    - text: ORCID
+      href: https://orcid.org/0000-0002-4509-7294
     - icon: building
       text: Durham Profile
       href: https://www.durham.ac.uk/staff/denis-d-patterson/
@@ -21,10 +23,10 @@ about:
 
 ## Denis Patterson
 
-I am an Assistant Professor in the [Department of Mathematical Sciences](https://www.durham.ac.uk/departments/academic/mathematical-sciences/) at [Durham University](https://www.durham.ac.uk/) (from August 2023).
+I am an Assistant Professor in the [Department of Mathematical Sciences](https://www.durham.ac.uk/departments/academic/mathematical-sciences/) at [Durham University](https://www.durham.ac.uk/).
 
 My research spans **nonlinear dynamics**, **stochastic analysis**, and **mathematical modelling**, with applications to ecology, developmental biology, and epidemiology. I am particularly interested in spatial models of vegetation dynamics, alternative stable states and tipping points in ecological systems, and within-host models of malaria immunity.
 
-Before joining Durham, I was a postdoctoral researcher at [Brandeis University](https://www.brandeis.edu/) with [Prof. Jonathan Touboul](https://sites.google.com/view/jtouboul/home) and subsequently at [Princeton University](https://www.princeton.edu/) in the group of [Prof. Simon Levin](https://slevin.princeton.edu/). I completed my PhD in Applied Mathematics at [Dublin City University](https://www.dcu.ie/) under the supervision of [Prof. John Appleby](https://www.dcu.ie/maths/people/john-appleby).
+Before joining Durham, I was a postdoctoral researcher at Brandeis University with [Prof. Jonathan Touboul](https://scholarworks.brandeis.edu/esploro/profile/jonathan_touboul/overview) and subsequently at Princeton University in the group of [Prof. Simon Levin](https://slevin.princeton.edu/). I completed my PhD in Applied Mathematics at Dublin City University under the supervision of [Prof. John Appleby](https://www.dcu.ie/maths/people/john-appleby).
 
 I am always happy to hear from prospective PhD students and postdoctoral researchers interested in working with me — please [get in touch](mailto:denis.d.patterson@durham.ac.uk) or see the [Projects & Students](people.qmd) page for more information.

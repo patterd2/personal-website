@@ -1,9 +1,6 @@
 ---
 title: Publications
----
-
-Papers with an asterisk (^\*^) denote equal contribution. The canonical BibTeX record for all papers is maintained in [`pubs.bib`](pubs.bib).
-
+body-classes: publications-page
 ---
 
 ## Mathematical Ecology
@@ -78,7 +75,7 @@ Modeling immunity to malaria with an age-structured PDE framework.
 **J. Feng^\*^, W. H. Hsu^\*^, D. D. Patterson, C. S. Tseng, Z. H. Zhuang, H. W. Hsin, Y. T. Huang, A. Faedo, J. L. Rubenstein, J. D. Touboul and S. J. Chou** (2021).
 COUP-TFI specifies the medial entorhinal cortex identity and induces differential cell adhesion to determine the integrity of its boundary with neocortex.
 *Science Advances*, 7(27), eabf6808.
-[[DOI](https://advances.sciencemag.org/content/7/27/eabf6808)]
+[[DOI](https://doi.org/10.1126/sciadv.abf6808)]
 
 ---
 

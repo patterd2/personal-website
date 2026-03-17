@@ -1,47 +1,174 @@
 /*-- scss:defaults --*/
 
-$font-family-sans-serif: "Source Sans Pro", "Helvetica Neue", Arial, sans-serif;
-$headings-font-weight: 600;
-$link-color: #2c7bb6;
+// Typography
+$font-family-sans-serif: 'Inter', 'Helvetica Neue', Arial, sans-serif;
+$headings-font-family:   'Merriweather', Georgia, 'Times New Roman', serif;
+$headings-font-weight:   700;
+$font-size-base:         1.0rem;
+$line-height-base:       1.75;
+
+// Colours
+$body-color:             #222222;
+$link-color:             #1a6b8a;
+$link-hover-color:       #134f68;
+
+// Navbar
+$navbar-bg:              #1e2d3d;
+$navbar-fg:              #f0f4f8;
+$navbar-hl:              #63bcd2;
 
 /*-- scss:rules --*/
 
-/* Navbar */
+/* ── Google Fonts ─────────────────────────────────────────── */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=Merriweather:ital,wght@0,400;0,700;1,400&display=swap');
+
+/* ── Navbar ───────────────────────────────────────────────── */
 .navbar {
-  border-bottom: 1px solid #e0e0e0;
+  padding-top: 0.6rem;
+  padding-bottom: 0.6rem;
+  border-bottom: 3px solid #1a6b8a;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.18);
 }
 
-/* About / index page */
+.navbar .navbar-brand,
+.navbar .navbar-title {
+  font-family: 'Inter', sans-serif;
+  font-weight: 600;
+  font-size: 1.1rem;
+  letter-spacing: 0.01em;
+  color: #f0f4f8 !important;
+}
+
+.navbar .nav-link {
+  font-family: 'Inter', sans-serif;
+  font-weight: 500;
+  font-size: 0.9rem;
+  letter-spacing: 0.02em;
+  color: #d0dde8 !important;
+  transition: color 0.2s;
+}
+
+.navbar .nav-link:hover,
+.navbar .nav-link.active {
+  color: #63bcd2 !important;
+}
+
+/* ── Title block banner (inner pages) ─────────────────────── */
+.quarto-title-banner {
+  padding-top: 2.4rem;
+  padding-bottom: 2.4rem;
+}
+
+.quarto-title-banner h1.title {
+  font-family: 'Merriweather', serif;
+  font-size: 2rem;
+  font-weight: 700;
+  color: #ffffff;
+  margin-bottom: 0;
+}
+
+/* ── About / index page ───────────────────────────────────── */
 .about-entity .about-image img {
-  border-radius: 6px;
+  border-radius: 8px;
+  box-shadow: 0 6px 24px rgba(0,0,0,0.15);
 }
 
-/* Publication list */
-#refs div {
-  margin-bottom: 0.9em;
-  padding-bottom: 0.9em;
-  border-bottom: 1px solid #f0f0f0;
+.about-entity h1 {
+  font-family: 'Merriweather', serif;
+  font-size: 1.9rem;
+  color: #1e2d3d;
 }
 
-#refs div:last-child {
-  border-bottom: none;
+/* Sidebar link buttons */
+.about-entity .about-links a.about-link {
+  border: 1.5px solid #1a6b8a;
+  border-radius: 5px;
+  color: #1a6b8a !important;
+  font-family: 'Inter', sans-serif;
+  font-size: 0.82rem;
+  font-weight: 500;
+  padding: 0.35rem 0.85rem;
+  margin: 0.25rem 0.2rem;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  text-decoration: none !important;
+  transition: background-color 0.18s, color 0.18s;
 }
 
-/* Collaborator list spacing */
-.collaborator-list p {
-  margin-bottom: 0.3em;
+.about-entity .about-links a.about-link:hover {
+  background-color: #1a6b8a;
+  color: #ffffff !important;
 }
 
-/* Section headings on research/publications pages */
+/* ── Page headings ────────────────────────────────────────── */
 h2 {
-  margin-top: 2rem;
-  padding-bottom: 0.3rem;
-  border-bottom: 2px solid #e8e8e8;
+  font-family: 'Merriweather', serif;
+  font-size: 1.35rem;
+  color: #1e2d3d;
+  margin-top: 2.5rem;
+  margin-bottom: 1rem;
+  padding-bottom: 0.4rem;
+  border-bottom: 2px solid #d0dde8;
 }
 
-/* Footer */
+h3 {
+  font-family: 'Inter', sans-serif;
+  font-size: 1.0rem;
+  font-weight: 600;
+  color: #1a6b8a;
+  margin-top: 1.6rem;
+  margin-bottom: 0.6rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+/* ── Publication entries (publications page only) ─────────── */
+body.publications-page #quarto-document-content p {
+  border-left: 3px solid #d0dde8;
+  padding-left: 1rem;
+  margin-bottom: 1.1rem;
+  transition: border-color 0.2s;
+}
+
+body.publications-page #quarto-document-content p:hover {
+  border-left-color: #1a6b8a;
+}
+
+/* ── General links ────────────────────────────────────────── */
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 2px;
+}
+
+/* ── Horizontal rules ─────────────────────────────────────── */
+hr {
+  border: none;
+  border-top: 1px solid #d8e4ec;
+  margin: 2rem 0;
+}
+
+/* ── Footer ───────────────────────────────────────────────── */
 .nav-footer {
-  border-top: 1px solid #e0e0e0;
-  font-size: 0.85em;
-  color: #888;
+  background-color: #1e2d3d;
+  border-top: 3px solid #1a6b8a;
+  color: #8fa3b1;
+  font-family: 'Inter', sans-serif;
+  font-size: 0.82rem;
+  padding: 1rem 0;
+}
+
+.nav-footer a {
+  color: #63bcd2;
+  text-decoration: none;
+}
+
+.nav-footer a:hover {
+  color: #ffffff;
+  text-decoration: none;
 }

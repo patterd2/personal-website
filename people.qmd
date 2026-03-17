@@ -2,7 +2,7 @@
 title: Projects & Students
 ---
 
-I am always happy to hear from motivated students and researchers interested in working with me. My current research focuses on microbial ecology (dynamical systems/applied PDE), forest-savanna models (mean-field theory/applied PDE), and mathematical epidemiology (within-host malaria models/applied PDE). Please [get in touch](mailto:denis.d.patterson@durham.ac.uk) to discuss potential projects and funding.
+I am always happy to hear from motivated students and researchers interested in working with me. I am actively working on projects in microbial ecology (dynamical systems/applied PDE), forest-savanna models (mean-field theory/applied PDE), and mathematical epidemiology (within-host malaria models/applied PDE). Please [get in touch](mailto:denis.d.patterson@durham.ac.uk) to discuss the specifics of potential projects and funding.
 
 ---
 
@@ -46,8 +46,6 @@ I have supervised undergraduate researchers at Brandeis, Princeton, and Durham. 
 
 ---
 
-## Durham Final Year Projects
+## Master Thesis and Final Year Project Topics
 
-- The Mathematics of Evolution *(4th year, 2025/2026)*
-- Numerical Bifurcation Analysis of Complex Systems *(4th year, 2024/2025)*
-- Forced Nonlinear Systems *(3rd year, 2024/2025)*
+- [The Mathematics of Evolution](maths-of-evolution.qmd) *(4th year, 2025/2026)*

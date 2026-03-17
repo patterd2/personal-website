@@ -28,21 +28,3 @@ In collaboration with experimental biologists, I have developed **mathematical m
 
 My doctoral research studied the qualitative behaviour of **Volterra integral and functional differential equations**, including the growth and blow-up of solutions in superlinear systems, large fluctuations in stochastic systems, and convergence rates to equilibrium.
 
----
-
-## Collaborators
-
-John Appleby (Dublin City University),
-Lauren Childs (Virginia Tech),
-Shen-Ju Chou (Academia Sinica),
-Christina Edholm (Scripps College),
-Megan Greischar (Cornell University),
-Simon Levin (Princeton University),
-Joan Ponce (Arizona State University),
-Olivia Prosper (University of Tennessee Knoxville),
-Zhuolin Qu (University of Texas San Antonio),
-Carla Staver (Yale University),
-Jonathan Touboul (Brandeis University),
-Jin Wang (Stony Brook University),
-Li Xu (Chinese Academy of Sciences),
-Lihong Zhao (Kennesaw State University).
