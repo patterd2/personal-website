@@ -2,9 +2,7 @@
 title: Teaching
 ---
 
-Teaching is one of the most enjoyable parts of my job, and I am committed to teaching to the highest standard possible; my [teaching statement](assets/teaching-statement.pdf) outlines my teaching philosophy in more detail. Below are some materials related to courses I have taught and developed. Typos and corrections in any course materials are always welcome — please [get in touch](mailto:denis.d.patterson@durham.ac.uk).
-
----
+Teaching is one of the most enjoyable parts of my job, and I am committed to teaching to the highest standard possible; my [teaching statement](assets/teaching-statement.pdf) outlines my teaching philosophy in more detail. Below are some materials related to courses I have taught and developed. Typos and corrections in any course materials are always welcome!
 
 ## Durham University
 
@@ -17,8 +15,6 @@ Teaching is one of the most enjoyable parts of my job, and I am committed to tea
 - [Michaelmas term notes 2025](https://patterd2.github.io/MATH4411_Adv_Math_Bio_Notes/) (HTML)
 - [Michaelmas term notes 2024](assets/durham-adv-math-bio-2024.pdf) (PDF)
 - [Course GitHub page](https://github.com/patterd2/MATH4411_Adv_Math_Bio) (code)
-
----
 
 ## Brandeis University
 
@@ -33,8 +29,6 @@ An introduction to ordinary differential equations from a dynamical systems pers
 **Multivariable Calculus** — *Spring 2019*
 
 - [Course notes](assets/brandeis-multivariable-calculus-notes.pdf) (PDF)
-
----
 
 ## Dublin City University
 

@@ -6,11 +6,11 @@ I am actively working on projects in microbial ecology (dynamical systems/applie
 
 ## Prospective PhD Students
 
-Durham offers a number of PhD funding routes, including the [DDTF](https://www.durham.ac.uk/research/doctoral/ddtf/), [CSC scholarships](https://www.csc.edu.cn/), and other schemes. I am happy to discuss these with interested applicants — please contact me directly.
+Durham offers a number of fully-funded PhD scholarships each year, including the [DDTF](https://www.durham.ac.uk/research/doctoral/ddtf/), [CSC scholarships](https://www.csc.edu.cn/), and SCOPE schemes, among other opportunities. I am happy to discuss these with interested applicants — please contact me directly. The application deadline(s) for this funding is usually in January.
 
 ## Master Thesis and Final Year Project Topics
 
-- [The Mathematics of Evolution](maths-of-evolution.qmd) *(4th year, 2025/2026)*
+- [The Mathematics of Evolution](maths-of-evolution.qmd) *(Masters/4th year, 2025/2026)*
 
 ## Undergraduate Summer Research
 
@@ -21,7 +21,7 @@ Recent funding for summer students has come from the [London Mathematical Societ
 ### Summer 2025
 
 - **Matthew Black** (Durham, Year 3) — Backward bifurcations in malaria models
-  [London Mathematical Society; *next:* PhD student, Cambridge University]
+  [London Mathematical Society; *next position:* PhD student, Cambridge University]
 - **Francesca Darkins** (Durham, Year 1) — Ecosystem resilience in a changing climate
   [NERC Research Experience Placement]
 - **Aidan Flatt** (Durham, Year 2) — Mathematics of pattern formation
@@ -33,14 +33,14 @@ Recent funding for summer students has come from the [London Mathematical Societ
 ### Summer 2024
 
 - **Thomas Shaw** (Durham, Year 3) — Microbial coexistence with resource toxicity
-  [Durham Biophysical Sciences Institute; *next:* PhD student, University of Oxford]
+  [Durham Biophysical Sciences Institute; *next position:* PhD student, University of Oxford]
 - **Ewan Green** (Durham, Year 3) — Mathematical modelling of microbial coexistence
   [London Mathematical Society]
 
 ### Princeton & Brandeis
 
 - **Kimberly Shen** (Princeton, Summer 2023 & Senior Thesis) — Fire spread in forest-savanna ecosystems
-  [Princeton PACM Certificate Best Research Project Prize; published in *Journal of Mathematical Biology*]
+  [Princeton PACM Certificate Best Research Project Prize; published paper in the *Journal of Mathematical Biology*]
 - **Oliver Liang** (Brandeis, Fall 2021) — Collective dynamics of mobile particles
 - **Jingman Li & Yuning Liu** (Brandeis, Fall 2020) — Network epidemic models
 - **Hange Zhu** (Brandeis, Spring 2020) — Pattern formation in heterogeneous domains

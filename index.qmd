@@ -3,7 +3,7 @@ title: ""
 about:
   template: trestles
   image: assets/profile.jpg
-  image-width: 14em
+  image-width: 18em
   links:
     - icon: envelope
       text: Email

@@ -6,7 +6,7 @@ My research lies at the interface of **nonlinear dynamics**, **stochastic analys
 
 ## Mathematical Ecology
 
-My ecology research focuses on **spatial models of vegetation dynamics** (especially forest-savanna ecosystems), **alternative stable states**, and **critical transitions** (abrupt regime shifts). A central theme is understanding how spatial heterogeneity and noise interact to shape the bistable landscapes of dryland and mesic ecosystems, and developing early-warning indicators for impending transitions.
+My ecology research focuses on **spatial models of vegetation dynamics** (especially forest-savanna ecosystems), **alternative stable states**, and **critical transitions** (abrupt regime shifts). Central themes are understanding how spatial heterogeneity and noise interact to shape the stability landscapes of ecosystems, and developing early-warning indicators for impending transitions.
 
 ## Mathematical Epidemiology: Malaria
 

@@ -3,7 +3,11 @@ title: Publications
 body-classes: publications-page
 ---
 
-## Mathematical Ecology
+::: {.panel-tabset}
+
+## By Topic
+
+### Mathematical Ecology
 
 **K. Shen, S. A. Levin and D. D. Patterson** (2026).
 Spatial modeling of forest-savanna bistability: impacts of fire dynamics and timescale separation.
@@ -50,7 +54,7 @@ Probabilistic foundations of spatial mean-field models in ecology and applicatio
 *SIAM Journal on Applied Dynamical Systems*, 19(4), 2682–2719.
 [[arXiv](https://arxiv.org/abs/1911.06770)]
 
-## Mathematical Epidemiology: Malaria
+### Mathematical Epidemiology: Malaria
 
 **D. D. Patterson, L. M. Childs, I. J. Stopard, N. Chitnis, S. Serrato-Arroyo and M. A. Greischar** (2026).
 Immunity can impose a reproduction-survival tradeoff on human malaria parasites.
@@ -67,16 +71,16 @@ Modeling immunity to malaria with an age-structured PDE framework.
 *SIAM Journal on Applied Mathematics*, 83(3), 1098–1125.
 [[arXiv](https://arxiv.org/abs/2112.12721)]
 
-## Mathematical Modelling: Developmental Biology
+### Mathematical Modelling: Developmental Biology
 
 **J. Feng^\*^, W. H. Hsu^\*^, D. D. Patterson, C. S. Tseng, Z. H. Zhuang, H. W. Hsin, Y. T. Huang, A. Faedo, J. L. Rubenstein, J. D. Touboul and S. J. Chou** (2021).
 COUP-TFI specifies the medial entorhinal cortex identity and induces differential cell adhesion to determine the integrity of its boundary with neocortex.
 *Science Advances*, 7(27), eabf6808.
 [[DOI](https://doi.org/10.1126/sciadv.abf6808)]
 
-## Functional Differential Equations
+### Functional Differential Equations
 
-### Finite-time blow-up of systems with memory
+#### Finite-time blow-up of systems with memory
 
 **J. A. D. Appleby and D. D. Patterson** (2018).
 Blow-up and superexponential growth in superlinear Volterra equations.
@@ -88,7 +92,7 @@ Growth rates of solutions of superlinear ordinary differential equations.
 *Applied Mathematics Letters*, 71, 30–37.
 [[arXiv](https://arxiv.org/abs/1702.06427)]
 
-### Growth rates of systems with memory
+#### Growth rates of systems with memory
 
 **J. A. D. Appleby and D. D. Patterson** (2021).
 Growth and fluctuation in perturbed nonlinear Volterra equations.
@@ -110,14 +114,14 @@ Hartman-Wintner growth results for sublinear functional differential equations.
 *Electronic Journal of Differential Equations*, 2017(21), 1–45.
 [[arXiv](https://arxiv.org/abs/1612.00512)]
 
-### Discrete systems with memory
+#### Discrete systems with memory
 
 **J. A. D. Appleby and D. D. Patterson** (2017).
 Large fluctuations and growth rates of linear Volterra summation equations.
 *Journal of Difference Equations and Applications*, 23(6), 1047–1080.
 [[arXiv](https://arxiv.org/abs/1610.02835)]
 
-### Convergence rates of stable solutions
+#### Convergence rates of stable solutions
 
 **J. A. D. Appleby and D. D. Patterson** (2016).
 Classification of convergence rates of solutions of perturbed ordinary differential equations with regularly varying nonlinearity.
@@ -128,3 +132,137 @@ Classification of convergence rates of solutions of perturbed ordinary different
 On necessary and sufficient conditions for preserving convergence rates to equilibrium in deterministically and stochastically perturbed differential equations with regularly varying nonlinearity.
 In *Recent Advances in Delay Differential and Difference Equations*, Springer Proceedings in Mathematics & Statistics 94, 1–85.
 [[arXiv](https://arxiv.org/abs/1409.1024)]
+
+## Chronological
+
+### 2026
+
+**K. Shen, S. A. Levin and D. D. Patterson** (2026).
+Spatial modeling of forest-savanna bistability: impacts of fire dynamics and timescale separation.
+*Journal of Mathematical Biology*, 92, 44.
+[[Open Access](https://doi.org/10.1007/s00285-026-02363-9)]
+
+**D. D. Patterson, L. M. Childs, I. J. Stopard, N. Chitnis, S. Serrato-Arroyo and M. A. Greischar** (2026).
+Immunity can impose a reproduction-survival tradeoff on human malaria parasites.
+*Evolution*, qpaf238.
+[[Open Access](https://doi.org/10.1093/evolut/qpaf238)]
+
+### 2025
+
+**L. Xu, D. D. Patterson, S. A. Levin and J. Wang** (2025).
+Global stability and tipping point prediction of the coral reef ecosystem.
+*Earth System Dynamics*, 16, 1503.
+[[Open Access](https://esd.copernicus.org/articles/16/1503/2025/)]
+
+**J. D. Touboul, J. Li, D. D. Patterson and S. A. Levin** (2025).
+New challenges in spatial ecology.
+*Japan Journal of Industrial and Applied Mathematics*.
+[[Open Access](https://doi.org/10.1007/s13160-025-00720-7)]
+
+**J. Siu, W. Wu, D. D. Patterson, S. A. Levin and J. Wang** (2025).
+Revealing physical mechanisms of pattern formation and switching in ecosystems via landscape and flux.
+*Advanced Science*, 2501776.
+[[Open Access](https://doi.org/10.1002/advs.202501776)]
+
+**Z. Qu^\*^, D. D. Patterson^\*^, L. Childs, C. Edholm, J. Ponce, O. Prosper and L. Zhao** (2025).
+Mathematical modeling of malaria vaccination with seasonality and immune feedbacks.
+*PLoS Computational Biology*, 21(5), e1012988.
+[[Open Access](https://doi.org/10.1371/journal.pcbi.1012988)]
+
+### 2024
+
+**D. D. Patterson, S. A. Levin, A. C. Staver and J. D. Touboul** (2024).
+Pattern formation in mesic savannas.
+*Bulletin of Mathematical Biology*, 86(3).
+[[Open Access](https://doi.org/10.1007/s11538-023-01231-7)]
+
+### 2023
+
+**D. D. Patterson, A. C. Staver, S. A. Levin and J. D. Touboul** (2023).
+Spatial dynamics with heterogeneity.
+*SIAM Journal on Applied Mathematics*, S225–S248.
+[[arXiv](https://arxiv.org/abs/2305.05007)]
+
+**L. Xu, D. D. Patterson, S. A. Levin and J. Wang** (2023).
+Non-equilibrium early-warning signals for critical transitions in ecological systems.
+*Proceedings of the National Academy of Sciences*, 120(5), e2218663120.
+[[DOI](https://doi.org/10.1073/pnas.2218663120)]
+
+**Z. Qu^\*^, D. D. Patterson^\*^, L. Childs, C. Edholm, J. Ponce, O. Prosper and L. Zhao** (2023).
+Modeling immunity to malaria with an age-structured PDE framework.
+*SIAM Journal on Applied Mathematics*, 83(3), 1098–1125.
+[[arXiv](https://arxiv.org/abs/2112.12721)]
+
+### 2021
+
+**L. Xu, D. D. Patterson, A. C. Staver, S. A. Levin and J. Wang** (2021).
+Unifying deterministic and stochastic ecological dynamics via a landscape-flux approach.
+*Proceedings of the National Academy of Sciences*, 118(24), e2103779118.
+[[arXiv](https://arxiv.org/abs/2103.08198)]
+
+**J. Feng^\*^, W. H. Hsu^\*^, D. D. Patterson, C. S. Tseng, Z. H. Zhuang, H. W. Hsin, Y. T. Huang, A. Faedo, J. L. Rubenstein, J. D. Touboul and S. J. Chou** (2021).
+COUP-TFI specifies the medial entorhinal cortex identity and induces differential cell adhesion to determine the integrity of its boundary with neocortex.
+*Science Advances*, 7(27), eabf6808.
+[[DOI](https://doi.org/10.1126/sciadv.abf6808)]
+
+**J. A. D. Appleby and D. D. Patterson** (2021).
+Growth and fluctuation in perturbed nonlinear Volterra equations.
+*Applied Mathematics and Computation*, 396, 125938.
+[[arXiv](https://arxiv.org/abs/1612.00515)]
+
+### 2020
+
+**D. D. Patterson, A. C. Staver, S. A. Levin and J. D. Touboul** (2020).
+Probabilistic foundations of spatial mean-field models in ecology and applications.
+*SIAM Journal on Applied Dynamical Systems*, 19(4), 2682–2719.
+[[arXiv](https://arxiv.org/abs/1911.06770)]
+
+### 2018
+
+**J. A. D. Appleby and D. D. Patterson** (2018).
+Blow-up and superexponential growth in superlinear Volterra equations.
+*Discrete and Continuous Dynamical Systems (Series A)*, 38(8), 3993–4017.
+[[arXiv](https://arxiv.org/abs/1710.07583)]
+
+**J. A. D. Appleby and D. D. Patterson** (2018).
+Growth rates of sublinear functional and Volterra differential equations.
+*SIAM Journal on Mathematical Analysis*, 50(2), 2086–2110.
+[[arXiv](https://arxiv.org/abs/1602.06256)]
+
+### 2017
+
+**J. A. D. Appleby and D. D. Patterson** (2017).
+Growth rates of solutions of superlinear ordinary differential equations.
+*Applied Mathematics Letters*, 71, 30–37.
+[[arXiv](https://arxiv.org/abs/1702.06427)]
+
+**J. A. D. Appleby and D. D. Patterson** (2017).
+Memory dependent growth in sublinear Volterra differential equations.
+*Journal of Integral Equations and Applications*, 29(4), 531–584.
+[[arXiv](https://arxiv.org/abs/1604.00945)]
+
+**J. A. D. Appleby and D. D. Patterson** (2017).
+Hartman-Wintner growth results for sublinear functional differential equations.
+*Electronic Journal of Differential Equations*, 2017(21), 1–45.
+[[arXiv](https://arxiv.org/abs/1612.00512)]
+
+**J. A. D. Appleby and D. D. Patterson** (2017).
+Large fluctuations and growth rates of linear Volterra summation equations.
+*Journal of Difference Equations and Applications*, 23(6), 1047–1080.
+[[arXiv](https://arxiv.org/abs/1610.02835)]
+
+### 2016
+
+**J. A. D. Appleby and D. D. Patterson** (2016).
+Classification of convergence rates of solutions of perturbed ordinary differential equations with regularly varying nonlinearity.
+*Electronic Journal of Qualitative Theory of Differential Equations*, Proceedings of the 10th Colloquium on the Qualitative Theory of Differential Equations, 3, 1–38.
+[[arXiv](https://arxiv.org/abs/1303.3345)]
+
+### 2014
+
+**J. A. D. Appleby and D. D. Patterson** (2014).
+On necessary and sufficient conditions for preserving convergence rates to equilibrium in deterministically and stochastically perturbed differential equations with regularly varying nonlinearity.
+In *Recent Advances in Delay Differential and Difference Equations*, Springer Proceedings in Mathematics & Statistics 94, 1–85.
+[[arXiv](https://arxiv.org/abs/1409.1024)]
+
+:::
