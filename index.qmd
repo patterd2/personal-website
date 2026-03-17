@@ -10,7 +10,7 @@ about:
       href: mailto:denis.d.patterson@durham.ac.uk
     - icon: file-earmark-text
       text: CV
-      href: assets/cv.pdf
+      href: https://patterd2.github.io/personal-website/assets/cv.pdf
     - icon: mortarboard
       text: Google Scholar
       href: https://scholar.google.com/citations?user=MySHM30AAAAJ&hl=en
@@ -25,7 +25,7 @@ about:
 
 I am an Assistant Professor in the [Department of Mathematical Sciences](https://www.durham.ac.uk/departments/academic/mathematical-sciences/) at [Durham University](https://www.durham.ac.uk/).
 
-My research spans **nonlinear dynamics**, **stochastic analysis**, and **mathematical modelling**, with applications to ecology, developmental biology, and epidemiology. I am particularly interested in spatial models of vegetation dynamics, alternative stable states and tipping points in ecological systems, and within-host models of malaria immunity.
+My research spans **nonlinear dynamics**, **stochastic analysis**, and **mathematical modelling**, with applications to ecology, developmental biology, and epidemiology. I am particularly interested in spatial models of vegetation dynamics, alternative stable states and regime shifts in ecological systems. 
 
 Before joining Durham, I was a postdoctoral researcher at Brandeis University with [Prof. Jonathan Touboul](https://scholarworks.brandeis.edu/esploro/profile/jonathan_touboul/overview) and subsequently at Princeton University in the group of [Prof. Simon Levin](https://slevin.princeton.edu/). I completed my PhD in Applied Mathematics at Dublin City University under the supervision of [Prof. John Appleby](https://www.dcu.ie/maths/people/john-appleby).
 

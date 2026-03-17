@@ -69,9 +69,9 @@ $navbar-hl:              #63bcd2;
 
 /* ── About / index page ───────────────────────────────────── */
 
-/* Constrain image column to half the width of the content column */
-.quarto-about-trestles {
-  grid-template-columns: 1fr 2fr !important;
+/* Constrain image/links column — Quarto default is 42%, reduce to ~28% */
+div.quarto-about-trestles .about-entity {
+  flex: 0 0 28% !important;
 }
 
 .about-entity .about-image img {

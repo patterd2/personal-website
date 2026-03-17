@@ -4,7 +4,7 @@
     "href": "people.html",
     "title": "Projects & Students",
     "section": "",
-    "text": "I am always happy to hear from motivated students and researchers interested in working with me. I am actively working on projects in microbial ecology (dynamical systems/applied PDE), forest-savanna models (mean-field theory/applied PDE), and mathematical epidemiology (within-host malaria models/applied PDE). Please get in touch to discuss the specifics of potential projects and funding."
+    "text": "I am always happy to hear from motivated students and researchers interested in working with me. I am actively working on projects in microbial ecology (dynamical systems/applied PDE), forest-savanna models (mean-field theory/applied PDE), and mathematical epidemiology (within-host malaria models/applied PDE). Please get in touch to discuss the specifics of potential research projects and funding."
   },
   {
     "objectID": "people.html#prospective-phd-students",
@@ -14,13 +14,6 @@
     "text": "Prospective PhD Students\nDurham offers a number of PhD funding routes, including the DDTF, CSC scholarships, and other schemes. I am happy to discuss these with interested applicants — please contact me directly."
   },
   {
-    "objectID": "people.html#undergraduate-summer-research",
-    "href": "people.html#undergraduate-summer-research",
-    "title": "Projects & Students",
-    "section": "Undergraduate Summer Research",
-    "text": "Undergraduate Summer Research\nI have supervised undergraduate researchers at Brandeis, Princeton, and Durham. I am open to discussing summer research opportunities with interested students at Durham. Recent funding has come from the London Mathematical Society and Durham’s Biophysical Sciences Institute; applications typically open around January.\n\nSummer 2025\n\nMatthew Black (Durham, Year 3) — Backward bifurcations in malaria models [London Mathematical Society; next: PhD student, Cambridge University]\nFrancesca Darkins (Durham, Year 1) — Ecosystem resilience in a changing climate [NERC Research Experience Placement]\nAidan Flatt (Durham, Year 2) — Mathematics of pattern formation [Collingwood College bursary]\nThomas Mills (Durham, Year 3) — Mathematical modelling of vegetation dynamics\nSarah Mitchell (Durham, Year 2) — Resilience modelling in medicine and ecology [Collingwood College bursary]\n\n\n\nSummer 2024\n\nThomas Shaw (Durham, Year 3) — Microbial coexistence with resource toxicity [Durham Biophysical Sciences Institute; next: PhD student, University of Oxford]\nEwan Green (Durham, Year 3) — Mathematical modelling of microbial coexistence [London Mathematical Society]\n\n\n\nPrinceton & Brandeis\n\nKimberly Shen (Princeton, Summer 2023 & Senior Thesis) — Fire spread in forest-savanna ecosystems [Princeton PACM Certificate Best Research Project Prize; published in Journal of Mathematical Biology]\nOliver Liang (Brandeis, Fall 2021) — Collective dynamics of mobile particles\nJingman Li & Yuning Liu (Brandeis, Fall 2020) — Network epidemic models\nHange Zhu (Brandeis, Spring 2020) — Pattern formation in heterogeneous domains\nHanyu Song (Brandeis, Summer 2019) — Mathematical models of somitogenesis"
-  },
-  {
     "objectID": "people.html#master-thesis-and-final-year-project-topics",
     "href": "people.html#master-thesis-and-final-year-project-topics",
     "title": "Projects & Students",
@@ -28,18 +21,25 @@
     "text": "Master Thesis and Final Year Project Topics\n\nThe Mathematics of Evolution (4th year, 2025/2026)"
   },
   {
+    "objectID": "people.html#undergraduate-summer-research",
+    "href": "people.html#undergraduate-summer-research",
+    "title": "Projects & Students",
+    "section": "Undergraduate Summer Research",
+    "text": "Undergraduate Summer Research\nI have supervised undergraduate researchers at Brandeis, Princeton, and Durham. I am open to discussing summer research opportunities with interested students at Durham. Recent funding has come from the London Mathematical Society and Durham’s Biophysical Sciences Institute; applications typically open around January.\n\nSummer 2025\n\nMatthew Black (Durham, Year 3) — Backward bifurcations in malaria models [London Mathematical Society; next: PhD student, Cambridge University]\nFrancesca Darkins (Durham, Year 1) — Ecosystem resilience in a changing climate [NERC Research Experience Placement]\nAidan Flatt (Durham, Year 2) — Mathematics of pattern formation [Collingwood College bursary]\nThomas Mills (Durham, Year 3) — Mathematical modelling of vegetation dynamics\nSarah Mitchell (Durham, Year 2) — Resilience modelling in medicine and ecology [Collingwood College bursary]\n\n\n\nSummer 2024\n\nThomas Shaw (Durham, Year 3) — Microbial coexistence with resource toxicity [Durham Biophysical Sciences Institute; next: PhD student, University of Oxford]\nEwan Green (Durham, Year 3) — Mathematical modelling of microbial coexistence [London Mathematical Society]\n\n\n\nPrinceton & Brandeis\n\nKimberly Shen (Princeton, Summer 2023 & Senior Thesis) — Fire spread in forest-savanna ecosystems [Princeton PACM Certificate Best Research Project Prize; published in Journal of Mathematical Biology]\nOliver Liang (Brandeis, Fall 2021) — Collective dynamics of mobile particles\nJingman Li & Yuning Liu (Brandeis, Fall 2020) — Network epidemic models\nHange Zhu (Brandeis, Spring 2020) — Pattern formation in heterogeneous domains\nHanyu Song (Brandeis, Summer 2019) — Mathematical models of somitogenesis"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Denis Patterson",
     "section": "",
-    "text": "I am an Assistant Professor in the Department of Mathematical Sciences at Durham University.\nMy research spans nonlinear dynamics, stochastic analysis, and mathematical modelling, with applications to ecology, developmental biology, and epidemiology. I am particularly interested in spatial models of vegetation dynamics, alternative stable states and tipping points in ecological systems, and within-host models of malaria immunity.\nBefore joining Durham, I was a postdoctoral researcher at Brandeis University with Prof. Jonathan Touboul and subsequently at Princeton University in the group of Prof. Simon Levin. I completed my PhD in Applied Mathematics at Dublin City University under the supervision of Prof. John Appleby.\nI am always happy to hear from prospective PhD students and postdoctoral researchers interested in working with me — please get in touch or see the Projects & Students page for more information."
+    "text": "I am an Assistant Professor in the Department of Mathematical Sciences at Durham University.\nMy research spans nonlinear dynamics, stochastic analysis, and mathematical modelling, with applications to ecology, developmental biology, and epidemiology. I am particularly interested in spatial models of vegetation dynamics, alternative stable states and regime shifts in ecological systems.\nBefore joining Durham, I was a postdoctoral researcher at Brandeis University with Prof. Jonathan Touboul and subsequently at Princeton University in the group of Prof. Simon Levin. I completed my PhD in Applied Mathematics at Dublin City University under the supervision of Prof. John Appleby.\nI am always happy to hear from prospective PhD students and postdoctoral researchers interested in working with me — please get in touch or see the Projects & Students page for more information."
   },
   {
     "objectID": "index.html#denis-patterson",
     "href": "index.html#denis-patterson",
     "title": "Denis Patterson",
     "section": "",
-    "text": "I am an Assistant Professor in the Department of Mathematical Sciences at Durham University.\nMy research spans nonlinear dynamics, stochastic analysis, and mathematical modelling, with applications to ecology, developmental biology, and epidemiology. I am particularly interested in spatial models of vegetation dynamics, alternative stable states and tipping points in ecological systems, and within-host models of malaria immunity.\nBefore joining Durham, I was a postdoctoral researcher at Brandeis University with Prof. Jonathan Touboul and subsequently at Princeton University in the group of Prof. Simon Levin. I completed my PhD in Applied Mathematics at Dublin City University under the supervision of Prof. John Appleby.\nI am always happy to hear from prospective PhD students and postdoctoral researchers interested in working with me — please get in touch or see the Projects & Students page for more information."
+    "text": "I am an Assistant Professor in the Department of Mathematical Sciences at Durham University.\nMy research spans nonlinear dynamics, stochastic analysis, and mathematical modelling, with applications to ecology, developmental biology, and epidemiology. I am particularly interested in spatial models of vegetation dynamics, alternative stable states and regime shifts in ecological systems.\nBefore joining Durham, I was a postdoctoral researcher at Brandeis University with Prof. Jonathan Touboul and subsequently at Princeton University in the group of Prof. Simon Levin. I completed my PhD in Applied Mathematics at Dublin City University under the supervision of Prof. John Appleby.\nI am always happy to hear from prospective PhD students and postdoctoral researchers interested in working with me — please get in touch or see the Projects & Students page for more information."
   },
   {
     "objectID": "teaching.html",
