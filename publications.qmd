@@ -50,25 +50,22 @@ Probabilistic foundations of spatial mean-field models in ecology and applicatio
 *SIAM Journal on Applied Dynamical Systems*, 19(4), 2682–2719.
 [[arXiv](https://arxiv.org/abs/1911.06770)]
 
----
-
 ## Mathematical Epidemiology: Malaria
 
-**D. D. Patterson, L. M. Childs, I. J. Stopard, N. Chitnis, S. Serrato-Arroyo and M. A. Greischar** (2025).
+**D. D. Patterson, L. M. Childs, I. J. Stopard, N. Chitnis, S. Serrato-Arroyo and M. A. Greischar** (2026).
 Immunity can impose a reproduction-survival tradeoff on human malaria parasites.
 *Evolution*, qpaf238.
-[[Open Access](https://www.biorxiv.org/content/10.1101/2025.01.27.635035v1)]
+[[Open Access](https://doi.org/10.1093/evolut/qpaf238)]
 
 **Z. Qu^\*^, D. D. Patterson^\*^, L. Childs, C. Edholm, J. Ponce, O. Prosper and L. Zhao** (2025).
 Mathematical modeling of malaria vaccination with seasonality and immune feedbacks.
 *PLoS Computational Biology*, 21(5), e1012988.
+[[Open Access](https://doi.org/10.1371/journal.pcbi.1012988)]
 
 **Z. Qu^\*^, D. D. Patterson^\*^, L. Childs, C. Edholm, J. Ponce, O. Prosper and L. Zhao** (2023).
 Modeling immunity to malaria with an age-structured PDE framework.
 *SIAM Journal on Applied Mathematics*, 83(3), 1098–1125.
 [[arXiv](https://arxiv.org/abs/2112.12721)]
-
----
 
 ## Mathematical Modelling: Developmental Biology
 
@@ -76,8 +73,6 @@ Modeling immunity to malaria with an age-structured PDE framework.
 COUP-TFI specifies the medial entorhinal cortex identity and induces differential cell adhesion to determine the integrity of its boundary with neocortex.
 *Science Advances*, 7(27), eabf6808.
 [[DOI](https://doi.org/10.1126/sciadv.abf6808)]
-
----
 
 ## Functional Differential Equations
 

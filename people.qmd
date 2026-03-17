@@ -2,19 +2,21 @@
 title: Projects & Students
 ---
 
-I am always happy to hear from motivated students and researchers interested in working with me. I am actively working on projects in microbial ecology (dynamical systems/applied PDE), forest-savanna models (mean-field theory/applied PDE), and mathematical epidemiology (within-host malaria models/applied PDE). Please [get in touch](mailto:denis.d.patterson@durham.ac.uk) to discuss the specifics of potential projects and funding.
-
----
+I am actively working on projects in microbial ecology (dynamical systems/applied PDE), forest-savanna models (mean-field theory/applied PDE), and mathematical epidemiology (within-host malaria models/applied PDE). Please [get in touch](mailto:denis.d.patterson@durham.ac.uk) to discuss the specifics of potential research projects and funding.
 
 ## Prospective PhD Students
 
 Durham offers a number of PhD funding routes, including the [DDTF](https://www.durham.ac.uk/research/doctoral/ddtf/), [CSC scholarships](https://www.csc.edu.cn/), and other schemes. I am happy to discuss these with interested applicants — please contact me directly.
 
----
+## Master Thesis and Final Year Project Topics
+
+- [The Mathematics of Evolution](maths-of-evolution.qmd) *(4th year, 2025/2026)*
 
 ## Undergraduate Summer Research
 
-I have supervised undergraduate researchers at Brandeis, Princeton, and Durham. I am open to discussing summer research opportunities with interested students at Durham. Recent funding has come from the [London Mathematical Society](https://www.lms.ac.uk/) and Durham's [Biophysical Sciences Institute](https://www.durham.ac.uk/research/institutes-and-centres/biophysical-sciences/); applications typically open around January.
+I have been fortunate to supervise many excellent undergraduate researchers at Brandeis, Princeton, and Durham universities, and I personally benefited enormously from undertaking summer research as an undergrad. I am always open to discussing potential summer research opportunities with interested students. 
+
+Recent funding for summer students has come from the [London Mathematical Society](https://www.lms.ac.uk/) and Durham's [Biophysical Sciences Institute](https://www.durham.ac.uk/research/institutes-and-centres/biophysical-sciences/). Applications for these schemes are due around January, so please contact me as early as possible to discuss funding opportunities. Durham Maths students might also consider joining our structured [Mathematics Summer Research Award scheme](https://durhamuniversity.sharepoint.com/sites/TaughtStudentsMaths/SitePages/UG-summer-research-projects.aspx) [Durham login required]. See below for a list of recent projects.
 
 ### Summer 2025
 
@@ -43,9 +45,3 @@ I have supervised undergraduate researchers at Brandeis, Princeton, and Durham. 
 - **Jingman Li & Yuning Liu** (Brandeis, Fall 2020) — Network epidemic models
 - **Hange Zhu** (Brandeis, Spring 2020) — Pattern formation in heterogeneous domains
 - **Hanyu Song** (Brandeis, Summer 2019) — Mathematical models of somitogenesis
-
----
-
-## Master Thesis and Final Year Project Topics
-
-- [The Mathematics of Evolution](maths-of-evolution.qmd) *(4th year, 2025/2026)*
