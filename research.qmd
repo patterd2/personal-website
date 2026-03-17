@@ -1,0 +1,48 @@
+---
+title: Research
+---
+
+My research lies at the interface of **nonlinear dynamics**, **stochastic analysis**, and **mathematical modelling**. My graduate work examined qualitative properties of nonlinear differential systems with memory and subject to random noise, with a focus on growth rates and blow-up of solutions in both deterministic and stochastic systems. My postdoctoral and subsequent research has applied mathematical methods — including dynamical systems, stochastic particle systems, and partial and integro-differential equations — to interdisciplinary collaborations in ecology, developmental biology, and epidemiology. See the [Publications](publications.qmd) page for a full list of papers.
+
+---
+
+## Mathematical Ecology
+
+My ecology research focuses on **spatial models of vegetation dynamics** (especially forest-savanna ecosystems), **alternative stable states**, and **critical transitions** (abrupt regime shifts). A central theme is understanding how spatial heterogeneity and noise interact to shape the bistable landscapes of dryland and mesic ecosystems, and developing early-warning indicators for impending transitions.
+
+---
+
+## Mathematical Epidemiology: Malaria
+
+I work on **within-host dynamics of malaria**, addressing how individuals acquire immunity from exposures over time and from vaccination. Using age-structured PDE frameworks, my collaborators and I model the accumulation of immunity and its consequences for parasite evolution and vaccine design.
+
+---
+
+## Mathematical Modelling: Developmental Biology
+
+In collaboration with experimental biologists, I have developed **mathematical models of cortical development**, in particular explaining the formation of ectopic cortical regions in mutant mice through a novel model of differential cell adhesion and boundary integrity.
+
+---
+
+## Functional Differential Equations
+
+My doctoral research studied the qualitative behaviour of **Volterra integral and functional differential equations**, including the growth and blow-up of solutions in superlinear systems, large fluctuations in stochastic systems, and convergence rates to equilibrium.
+
+---
+
+## Collaborators
+
+John Appleby (Dublin City University),
+Lauren Childs (Virginia Tech),
+Shen-Ju Chou (Academia Sinica),
+Christina Edholm (Scripps College),
+Megan Greischar (Cornell University),
+Simon Levin (Princeton University),
+Joan Ponce (Arizona State University),
+Olivia Prosper (University of Tennessee Knoxville),
+Zhuolin Qu (University of Texas San Antonio),
+Carla Staver (Yale University),
+Jonathan Touboul (Brandeis University),
+Jin Wang (Stony Brook University),
+Li Xu (Chinese Academy of Sciences),
+Lihong Zhao (Kennesaw State University).

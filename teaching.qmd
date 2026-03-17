@@ -1,0 +1,37 @@
+---
+title: Teaching
+---
+
+I believe that effective teaching and active research are mutually reinforcing, and I aim to bring current mathematical ideas directly into the classroom. My [teaching statement](assets/teaching-statement.pdf) (2022) outlines my teaching philosophy in more detail. Typos and corrections in any course materials are always welcome — please [get in touch](mailto:denis.d.patterson@durham.ac.uk).
+
+---
+
+## Durham University
+
+**Computational Mathematics II (MATH2731)** — *Winter 2025*
+
+- [Course notes](https://patterd2.github.io/MATH2731_Comp_Math/) (HTML)
+
+**Advanced Mathematical Biology IV (MATH4411)** — *Winter 2023, 2024, 2025*
+
+- [Michaelmas term notes 2025](https://patterd2.github.io/MATH4411_Adv_Math_Bio_Notes/) (HTML)
+- [Course GitHub page](https://github.com/patterd2/MATH4411_Adv_Math_Bio) (code)
+- Michaelmas term notes 2024 (PDF) — *available on request*
+
+---
+
+## Brandeis University
+
+**Differential Equations** — *Summer 2020*
+
+An introduction to ordinary differential equations from a dynamical systems perspective, covering qualitative methods, phase plane analysis, and applications.
+
+**Probability** — *Fall 2019*
+
+**Multivariable Calculus** — *Spring 2019*
+
+---
+
+## Dublin City University
+
+**Simulation for Finance** — *2017*

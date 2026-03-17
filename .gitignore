@@ -1,0 +1,7 @@
+/.quarto/
+/_freeze/
+*.tex
+*.log
+*.aux
+*.toc
+.DS_Store

@@ -1,0 +1,31 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Denis Patterson"
+  navbar:
+    left:
+      - href: index.qmd
+        text: About
+      - href: research.qmd
+        text: Research
+      - href: publications.qmd
+        text: Publications
+      - href: teaching.qmd
+        text: Teaching
+      - href: people.qmd
+        text: Projects & Students
+    right:
+      - icon: envelope
+        href: mailto:denis.d.patterson@durham.ac.uk
+        aria-label: Email
+  page-footer:
+    left: "© Denis Patterson"
+    right: "Built with [Quarto](https://quarto.org)"
+
+format:
+  html:
+    theme: [flatly, custom.scss]
+    toc: false
+    link-external-newwindow: true

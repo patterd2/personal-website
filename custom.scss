@@ -1,0 +1,47 @@
+/*-- scss:defaults --*/
+
+$font-family-sans-serif: "Source Sans Pro", "Helvetica Neue", Arial, sans-serif;
+$headings-font-weight: 600;
+$link-color: #2c7bb6;
+
+/*-- scss:rules --*/
+
+/* Navbar */
+.navbar {
+  border-bottom: 1px solid #e0e0e0;
+}
+
+/* About / index page */
+.about-entity .about-image img {
+  border-radius: 6px;
+}
+
+/* Publication list */
+#refs div {
+  margin-bottom: 0.9em;
+  padding-bottom: 0.9em;
+  border-bottom: 1px solid #f0f0f0;
+}
+
+#refs div:last-child {
+  border-bottom: none;
+}
+
+/* Collaborator list spacing */
+.collaborator-list p {
+  margin-bottom: 0.3em;
+}
+
+/* Section headings on research/publications pages */
+h2 {
+  margin-top: 2rem;
+  padding-bottom: 0.3rem;
+  border-bottom: 2px solid #e8e8e8;
+}
+
+/* Footer */
+.nav-footer {
+  border-top: 1px solid #e0e0e0;
+  font-size: 0.85em;
+  color: #888;
+}
