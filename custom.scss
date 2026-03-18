@@ -185,6 +185,38 @@ body.publications-page #quarto-document-content p:hover {
   border-left-color: #1a6b8a;
 }
 
+/* ── People page student tables ───────────────────────────── */
+body.people-page table {
+  font-family: 'Inter', sans-serif;
+  font-size: 0.88rem;
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 1.5rem;
+}
+
+body.people-page table thead th {
+  font-weight: 600;
+  color: #1e2d3d;
+  border-bottom: 2px solid #d0dde8;
+  padding: 0.45rem 0.7rem;
+  text-align: left;
+}
+
+body.people-page table tbody td {
+  padding: 0.45rem 0.7rem;
+  border-bottom: 1px solid #edf2f7;
+  vertical-align: top;
+  color: #333;
+}
+
+body.people-page table tbody tr:last-child td {
+  border-bottom: none;
+}
+
+body.people-page table tbody tr:hover td {
+  background-color: #f7fafc;
+}
+
 /* ── General links ────────────────────────────────────────── */
 a {
   text-decoration: none;

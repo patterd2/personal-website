@@ -1,5 +1,6 @@
 ---
 title: Projects & Students
+body-classes: people-page
 ---
 
 I am actively working on projects in microbial ecology (dynamical systems/applied PDE), forest-savanna models (mean-field theory/applied PDE), and mathematical epidemiology (within-host malaria models/applied PDE). Please [get in touch](mailto:denis.d.patterson@durham.ac.uk) to discuss the specifics of potential research projects and funding.
@@ -18,30 +19,29 @@ I have been fortunate to supervise many excellent undergraduate researchers at B
 
 Recent funding for summer students has come from the [London Mathematical Society](https://www.lms.ac.uk/) and Durham's [Biophysical Sciences Institute](https://www.durham.ac.uk/research/institutes-and-centres/biophysical-sciences/). Applications for these schemes are due around January, so please contact me as early as possible to discuss funding opportunities. Durham Maths students might also consider joining our structured [Mathematics Summer Research Award scheme](https://durhamuniversity.sharepoint.com/sites/TaughtStudentsMaths/SitePages/UG-summer-research-projects.aspx) [Durham login required]. See below for a list of recent projects.
 
-### Summer 2025
+### Summer 2025 — Durham University
 
-- **Matthew Black** (Durham, Year 3) — Backward bifurcations in malaria models
-  [London Mathematical Society; *next position:* PhD student, Cambridge University]
-- **Francesca Darkins** (Durham, Year 1) — Ecosystem resilience in a changing climate
-  [NERC Research Experience Placement]
-- **Aidan Flatt** (Durham, Year 2) — Mathematics of pattern formation
-  [Collingwood College bursary]
-- **Thomas Mills** (Durham, Year 3) — Mathematical modelling of vegetation dynamics
-- **Sarah Mitchell** (Durham, Year 2) — Resilience modelling in medicine and ecology
-  [Collingwood College bursary]
+| Student | Year | Project | Funder | Next position |
+|:--------|:-----|:--------|:-------|:--------------|
+| **Matthew Black** | 3rd | Backward bifurcations in malaria models | London Mathematical Society | PhD student, Cambridge |
+| **Francesca Darkins** | 1st | Ecosystem resilience in a changing climate | NERC Research Experience Placement | |
+| **Aidan Flatt** | 2nd | Mathematics of pattern formation | Collingwood College bursary | |
+| **Thomas Mills** | 3rd | Mathematical modelling of vegetation dynamics | | |
+| **Sarah Mitchell** | 2nd | Resilience modelling in medicine and ecology | Collingwood College bursary | |
 
-### Summer 2024
+### Summer 2024 — Durham University
 
-- **Thomas Shaw** (Durham, Year 3) — Microbial coexistence with resource toxicity
-  [Durham Biophysical Sciences Institute; *next position:* PhD student, University of Oxford]
-- **Ewan Green** (Durham, Year 3) — Mathematical modelling of microbial coexistence
-  [London Mathematical Society]
+| Student | Year | Project | Funder | Next position |
+|:--------|:-----|:--------|:-------|:--------------|
+| **Thomas Shaw** | 3rd | Microbial coexistence with resource toxicity | Durham Biophysical Sciences Institute | PhD student, Oxford |
+| **Ewan Green** | 3rd | Mathematical modelling of microbial coexistence | London Mathematical Society | |
 
 ### Princeton & Brandeis
 
-- **Kimberly Shen** (Princeton, Summer 2023 & Senior Thesis) — Fire spread in forest-savanna ecosystems
-  [Princeton PACM Certificate Best Research Project Prize; published paper in the *Journal of Mathematical Biology*]
-- **Oliver Liang** (Brandeis, Fall 2021) — Collective dynamics of mobile particles
-- **Jingman Li & Yuning Liu** (Brandeis, Fall 2020) — Network epidemic models
-- **Hange Zhu** (Brandeis, Spring 2020) — Pattern formation in heterogeneous domains
-- **Hanyu Song** (Brandeis, Summer 2019) — Mathematical models of somitogenesis
+| Student | Institution | Project | Notes |
+|:--------|:------------|:--------|:------|
+| **Kimberly Shen** | Princeton, Summer 2023 & Senior Thesis | Fire spread in forest-savanna ecosystems | PACM Best Research Project Prize; published in *J. Math. Biology* |
+| **Oliver Liang** | Brandeis, Fall 2021 | Collective dynamics of mobile particles | |
+| **Jingman Li & Yuning Liu** | Brandeis, Fall 2020 | Network epidemic models | |
+| **Hange Zhu** | Brandeis, Spring 2020 | Pattern formation in heterogeneous domains | |
+| **Hanyu Song** | Brandeis, Summer 2019 | Mathematical models of somitogenesis | |
