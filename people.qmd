@@ -24,10 +24,10 @@ Recent funding for summer students has come from the [London Mathematical Societ
 | Student | Year | Project | Funder | Next position |
 |:--------|:-----|:--------|:-------|:--------------|
 | **Matthew Black** | 3rd | Backward bifurcations in malaria models | London Mathematical Society | PhD student, Cambridge |
-| **Francesca Darkins** | 1st | Ecosystem resilience in a changing climate | NERC Research Experience Placement | |
-| **Aidan Flatt** | 2nd | Mathematics of pattern formation | Collingwood College bursary | |
 | **Thomas Mills** | 3rd | Mathematical modelling of vegetation dynamics | | |
+| **Aidan Flatt** | 2nd | Mathematics of pattern formation | Collingwood College bursary | |
 | **Sarah Mitchell** | 2nd | Resilience modelling in medicine and ecology | Collingwood College bursary | |
+| **Francesca Darkins** | 1st | Ecosystem resilience in a changing climate | NERC Research Experience Placement | |
 
 ### Summer 2024 — Durham University
 
