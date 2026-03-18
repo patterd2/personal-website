@@ -6,12 +6,22 @@ Teaching is one of the most enjoyable parts of my job, and I am committed to tea
 
 ## Durham University
 
+:::: {layout="[58, 42]" layout-valign="top"}
+::: {}
 **Computational Mathematics II (MATH2731)** — *Winter 2025*
 
 A hands-on introduction to numerical analysis and scientific computing, covering algorithms for root-finding, interpolation, numerical integration, and the numerical solution of ordinary and partial differential equations.
 
 - [Course notes](https://patterd2.github.io/MATH2731_Comp_Math/) (HTML)
+:::
 
+::: {}
+![Newton basins of attraction for a degree-3 polynomial, illustrating the fractal boundary between convergence regions of Newton's root-finding method.](assets/newton_basins_crop.png){fig-alt="Newton fractal basins of attraction"}
+:::
+::::
+
+:::: {layout="[58, 42]" layout-valign="top"}
+::: {}
 **Advanced Mathematical Biology IV (MATH4411)** — *Winter 2023, 2024, 2025*
 
 An advanced course in the mathematical modelling of biological systems, covering stochastic simulation, diffusion processes, and pattern formation, with applications in ecology, cell biology, and neuroscience.
@@ -19,6 +29,12 @@ An advanced course in the mathematical modelling of biological systems, covering
 - [Michaelmas term notes 2025](https://patterd2.github.io/MATH4411_Adv_Math_Bio_Notes/) (HTML)
 - [Michaelmas term notes 2024](assets/durham-adv-math-bio-2024.pdf) (PDF)
 - [Course GitHub page](https://github.com/patterd2/MATH4411_Adv_Math_Bio) (code)
+:::
+
+::: {}
+![Stochastic Turing pattern formation in a Schnakenberg reaction-diffusion system, comparing the activator (A, left) and inhibitor (B, right) spatial profiles over time.](assets/schnak_crop.png){fig-alt="Schnakenberg Turing pattern heatmaps"}
+:::
+::::
 
 ## Brandeis University
 
