@@ -53,12 +53,18 @@ An introduction to ordinary differential equations from a dynamical systems pers
 
 - [Course notes](assets/brandeis-probability-notes.pdf) (PDF)
 
+<small>Text: Ross, S. M. (2012). *A First Course in Probability*. Pearson.</small>
+
 **Multivariable Calculus** — *Spring 2019*
 
 - [Course notes](assets/brandeis-multivariable-calculus-notes.pdf) (PDF)
 
+<small>Text: Marsden, J. E., & Tromba, A. (2011). *Vector Calculus*. W. H. Freeman.</small>
+
 ## Dublin City University
 
 **Simulation for Finance (MS455)** — *2017*
+
+An introduction to probabilistic simulation methods and their applications in quantitative finance, covering Monte Carlo methods, stochastic processes, and the pricing of financial derivatives.
 
 - [Course notes](assets/dcu-simulation-finance-2017.pdf) (PDF)

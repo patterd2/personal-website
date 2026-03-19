@@ -130,6 +130,16 @@ Classification of convergence rates of solutions of perturbed ordinary different
 *Electronic Journal of Qualitative Theory of Differential Equations*, Proceedings of the 10th Colloquium on the Qualitative Theory of Differential Equations, 3, 1–38.
 [[arXiv](https://arxiv.org/abs/1303.3345)]
 
+**J. A. D. Appleby and <u>D. D. Patterson</u>** (2016).
+On the admissibility of unboundedness properties of forced deterministic and stochastic sublinear Volterra summation equations.
+*Electronic Journal of Qualitative Theory of Differential Equations*, 2016(63), 1–44.
+
+### 2015
+
+**J. A. D. Appleby and <u>D. D. Patterson</u>^\*^** (2015).
+Subexponential growth rates in functional differential equations.
+*Discrete and Continuous Dynamical Systems Supplement* (2015), 56–65.
+
 ### 2014
 
 **J. A. D. Appleby and <u>D. D. Patterson</u>** (2014).
@@ -246,12 +256,20 @@ Hartman-Wintner growth results for sublinear functional differential equations.
 *Electronic Journal of Differential Equations*, 2017(21), 1–45.
 [[arXiv](https://arxiv.org/abs/1612.00512)]
 
+**J. A. D. Appleby and <u>D. D. Patterson</u>^\*^** (2015).
+Subexponential growth rates in functional differential equations.
+*Discrete and Continuous Dynamical Systems Supplement* (2015), 56–65.
+
 #### Discrete systems with memory
 
 **J. A. D. Appleby and <u>D. D. Patterson</u>** (2017).
 Large fluctuations and growth rates of linear Volterra summation equations.
 *Journal of Difference Equations and Applications*, 23(6), 1047–1080.
 [[arXiv](https://arxiv.org/abs/1610.02835)]
+
+**J. A. D. Appleby and <u>D. D. Patterson</u>** (2016).
+On the admissibility of unboundedness properties of forced deterministic and stochastic sublinear Volterra summation equations.
+*Electronic Journal of Qualitative Theory of Differential Equations*, 2016(63), 1–44.
 
 #### Convergence rates of stable solutions
 
