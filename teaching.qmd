@@ -51,11 +51,15 @@ An introduction to ordinary differential equations from a dynamical systems pers
 
 **Probability** — *Fall 2019*
 
+A rigorous introduction to probability theory, covering sample spaces, random variables, distributions, expectation, limit theorems, and applications.
+
 - [Course notes](assets/brandeis-probability-notes.pdf) (PDF)
 
 <small>Text: Ross, S. M. (2012). *A First Course in Probability*. Pearson.</small>
 
 **Multivariable Calculus** — *Spring 2019*
+
+An introduction to calculus in several variables, covering partial differentiation, multiple integration, vector fields, and the theorems of Green, Stokes, and Gauss.
 
 - [Course notes](assets/brandeis-multivariable-calculus-notes.pdf) (PDF)
 

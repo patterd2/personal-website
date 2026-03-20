@@ -53,12 +53,12 @@ Pattern formation in mesic savannas.
 **<u>D. D. Patterson</u>, A. C. Staver, S. A. Levin and J. D. Touboul** (2023).
 Spatial dynamics with heterogeneity.
 *SIAM Journal on Applied Mathematics*, S225–S248.
-[[arXiv](https://arxiv.org/abs/2305.05007)]
+[[arXiv](https://arxiv.org/abs/2305.05007)] [[DOI](https://doi.org/10.1137/22M1509850)]
 
 **L. Xu, <u>D. D. Patterson</u>, S. A. Levin and J. Wang** (2023).
 Non-equilibrium early-warning signals for critical transitions in ecological systems.
 *Proceedings of the National Academy of Sciences*, 120(5), e2218663120.
-[[DOI](https://doi.org/10.1073/pnas.2218663120)]
+[[DOI](https://doi.org/10.1073/pnas.2218663120)] [[PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC9945981/)]
 
 **Z. Qu^\*^, <u>D. D. Patterson</u>^\*^, L. Childs, C. Edholm, J. Ponce, O. Prosper and L. Zhao** (2023).
 Modeling immunity to malaria with an age-structured PDE framework.
@@ -80,7 +80,7 @@ COUP-TFI specifies the medial entorhinal cortex identity and induces differentia
 **J. A. D. Appleby and <u>D. D. Patterson</u>** (2021).
 Growth and fluctuation in perturbed nonlinear Volterra equations.
 *Applied Mathematics and Computation*, 396, 125938.
-[[arXiv](https://arxiv.org/abs/1612.00515)]
+[[arXiv](https://arxiv.org/abs/1612.00515)] [[DOI](https://doi.org/10.1016/j.amc.2020.125938)]
 
 ### 2020
 
@@ -133,12 +133,14 @@ Classification of convergence rates of solutions of perturbed ordinary different
 **J. A. D. Appleby and <u>D. D. Patterson</u>** (2016).
 On the admissibility of unboundedness properties of forced deterministic and stochastic sublinear Volterra summation equations.
 *Electronic Journal of Qualitative Theory of Differential Equations*, 2016(63), 1–44.
+[[arXiv](https://arxiv.org/abs/1607.00419)]
 
 ### 2015
 
 **J. A. D. Appleby and <u>D. D. Patterson</u>^\*^** (2015).
 Subexponential growth rates in functional differential equations.
 *Discrete and Continuous Dynamical Systems Supplement* (2015), 56–65.
+[[arXiv](https://arxiv.org/abs/1409.4201)]
 
 ### 2014
 
@@ -179,12 +181,12 @@ Pattern formation in mesic savannas.
 **<u>D. D. Patterson</u>, A. C. Staver, S. A. Levin and J. D. Touboul** (2023).
 Spatial dynamics with heterogeneity.
 *SIAM Journal on Applied Mathematics*, S225–S248.
-[[arXiv](https://arxiv.org/abs/2305.05007)]
+[[arXiv](https://arxiv.org/abs/2305.05007)] [[DOI](https://doi.org/10.1137/22M1509850)]
 
 **L. Xu, <u>D. D. Patterson</u>, S. A. Levin and J. Wang** (2023).
 Non-equilibrium early-warning signals for critical transitions in ecological systems.
 *Proceedings of the National Academy of Sciences*, 120(5), e2218663120.
-[[DOI](https://doi.org/10.1073/pnas.2218663120)]
+[[DOI](https://doi.org/10.1073/pnas.2218663120)] [[PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC9945981/)]
 
 **L. Xu, <u>D. D. Patterson</u>, A. C. Staver, S. A. Levin and J. Wang** (2021).
 Unifying deterministic and stochastic ecological dynamics via a landscape-flux approach.
@@ -239,7 +241,7 @@ Growth rates of solutions of superlinear ordinary differential equations.
 **J. A. D. Appleby and <u>D. D. Patterson</u>** (2021).
 Growth and fluctuation in perturbed nonlinear Volterra equations.
 *Applied Mathematics and Computation*, 396, 125938.
-[[arXiv](https://arxiv.org/abs/1612.00515)]
+[[arXiv](https://arxiv.org/abs/1612.00515)] [[DOI](https://doi.org/10.1016/j.amc.2020.125938)]
 
 **J. A. D. Appleby and <u>D. D. Patterson</u>** (2018).
 Growth rates of sublinear functional and Volterra differential equations.
@@ -259,6 +261,7 @@ Hartman-Wintner growth results for sublinear functional differential equations.
 **J. A. D. Appleby and <u>D. D. Patterson</u>^\*^** (2015).
 Subexponential growth rates in functional differential equations.
 *Discrete and Continuous Dynamical Systems Supplement* (2015), 56–65.
+[[arXiv](https://arxiv.org/abs/1409.4201)]
 
 #### Discrete systems with memory
 
@@ -270,6 +273,7 @@ Large fluctuations and growth rates of linear Volterra summation equations.
 **J. A. D. Appleby and <u>D. D. Patterson</u>** (2016).
 On the admissibility of unboundedness properties of forced deterministic and stochastic sublinear Volterra summation equations.
 *Electronic Journal of Qualitative Theory of Differential Equations*, 2016(63), 1–44.
+[[arXiv](https://arxiv.org/abs/1607.00419)]
 
 #### Convergence rates of stable solutions
 
