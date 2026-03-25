@@ -18,7 +18,7 @@
     "href": "people.html#master-thesis-and-final-year-project-topics",
     "title": "Projects & Students",
     "section": "Master Thesis and Final Year Project Topics",
-    "text": "Master Thesis and Final Year Project Topics\n\nThe Mathematics of Evolution (Masters/4th year, 2025/2026)"
+    "text": "Master Thesis and Final Year Project Topics\n\nThe Mathematics of Evolution (Masters/4th year, 2025/2026)\nThe Mathematics of Coexistence (Masters/4th year, 2026/2027)"
   },
   {
     "objectID": "people.html#undergraduate-summer-research",
@@ -42,32 +42,32 @@
     "text": "I am an Assistant Professor in the Department of Mathematical Sciences at Durham University.\nMy research spans nonlinear dynamics, stochastic analysis, and mathematical modelling, with applications to ecology, developmental biology, and epidemiology. I am particularly interested in spatial models of vegetation dynamics, alternative stable states and regime shifts in ecological systems.\nBefore joining Durham, I was a postdoctoral researcher at Brandeis University with Prof. Jonathan Touboul and subsequently at Princeton University in the group of Prof. Simon Levin. I completed my PhD in Applied Mathematics at Dublin City University under the supervision of Prof. John Appleby.\nI am always happy to hear from prospective PhD students and postdoctoral researchers interested in working with me — please get in touch or see the Projects & Students page for more information."
   },
   {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
     "section": "",
-    "text": "Teaching is one of the most enjoyable parts of my job, and I am committed to teaching to the highest standard possible; my teaching statement outlines my teaching philosophy in more detail. Below are some materials related to courses I have taught and developed. Typos and corrections in any course materials are always welcome!"
+    "text": "My research lies at the interface of nonlinear dynamics, stochastic analysis, and mathematical modelling. My graduate work examined qualitative properties of nonlinear differential systems with memory and subject to random noise, with a focus on growth rates and blow-up of solutions in both deterministic and stochastic systems. My postdoctoral and subsequent research has applied mathematical methods — including dynamical systems, stochastic particle systems, and partial and integro-differential equations — to interdisciplinary collaborations in ecology, developmental biology, and epidemiology. See the Publications page for a full list of papers."
   },
   {
-    "objectID": "teaching.html#durham-university",
-    "href": "teaching.html#durham-university",
-    "title": "Teaching",
-    "section": "Durham University",
-    "text": "Durham University\n\n\n\nComputational Mathematics II (MATH2731) — Winter 2025\nA hands-on introduction to numerical analysis and scientific computing, covering algorithms for root-finding, interpolation, numerical integration, and the numerical solution of ordinary and partial differential equations.\n\nCourse notes (HTML)\n\nThis course is assessed by weekly computational lab reports and e-assessments (50%), and a computational project grounded in one of the research areas of the department (50%).\n\n\n\n\n\nFractal boundaries between convergence regions of Newton’s root-finding method.\n\n\n\n\n\n\n\n\nAdvanced Mathematical Biology IV (MATH4411) — Winter 2023, 2024, 2025\nAn advanced course in the mathematical modelling of biological systems. Michaelmas term covers stochastic models, including simulating and analysing discrete-state Markov processes, reaction-diffusion processes, and stochastic differential equations.\n\nMichaelmas term notes 2025 (HTML)\nMichaelmas term notes 2024 (PDF)\nCourse GitHub page (code)\n\nEpiphany term covers continuum-mechanical models of biological media, including non-Newtonian fluids, solids, and viscoelastic media.\n\n\n\n\n\nStochastic Turing patterns in a Schnakenberg reaction-diffusion system."
+    "objectID": "research.html#mathematical-ecology",
+    "href": "research.html#mathematical-ecology",
+    "title": "Research",
+    "section": "Mathematical Ecology",
+    "text": "Mathematical Ecology\nMy ecology research focuses on spatial models of vegetation dynamics (especially forest-savanna ecosystems), alternative stable states, and critical transitions (abrupt regime shifts). Central themes are understanding how spatial heterogeneity and noise interact to shape the stability landscapes of ecosystems, and developing early-warning indicators for impending transitions.\n\n\n\nA1–A4: Comparison of waves of invasion in the stochastic model versus the solution of the integro-differential equations (IDEs) governing the law of the stochastic model. B1–B2: Front pinning in an interacting particle system versus solution of governing IDEs (heterogeneous medium). B3: Solutions overlaid with bifurcation diagram of the non-spatial system."
   },
   {
-    "objectID": "teaching.html#brandeis-university",
-    "href": "teaching.html#brandeis-university",
-    "title": "Teaching",
-    "section": "Brandeis University",
-    "text": "Brandeis University\nDifferential Equations — Summer 2020\nAn introduction to ordinary differential equations from a dynamical systems perspective, covering qualitative methods, phase plane analysis, and applications.\nText: Blanchard, P., Devaney, R. L., & Hall, G. R. (2012). Differential Equations (4th ed.). Brooks/Cole.\nProbability — Fall 2019\nA rigorous introduction to probability theory, covering sample spaces, random variables, distributions, expectation, limit theorems, and applications.\n\nCourse notes (PDF)\n\nText: Ross, S. M. (2012). A First Course in Probability. Pearson.\nMultivariable Calculus — Spring 2019\nAn introduction to calculus in several variables, covering partial differentiation, multiple integration, vector fields, and the theorems of Green, Stokes, and Gauss.\n\nCourse notes (PDF)\n\nText: Marsden, J. E., & Tromba, A. (2011). Vector Calculus. W. H. Freeman."
+    "objectID": "research.html#mathematical-epidemiology-malaria",
+    "href": "research.html#mathematical-epidemiology-malaria",
+    "title": "Research",
+    "section": "Mathematical Epidemiology: Malaria",
+    "text": "Mathematical Epidemiology: Malaria\nI work on mathematical modelling of malaria at both the population and within-host scales. Using age-structured PDE frameworks, my collaborators and I modelled the accumulation of anti-malaria immunity in humans and its consequences for parasite evolution and vaccine design. In terms of within-host dynamics of malaria, I have worked on the question of how immune pressures shape the evolution of parasite transmission investment.\n\n\n\nLeft: Optimal nonconstant and constant parasite investment strategies from our within-host mathematical model with immune response. Right: Comparison of temporal host infectiousness profiles for the optimal strategies."
   },
   {
-    "objectID": "teaching.html#dublin-city-university",
-    "href": "teaching.html#dublin-city-university",
-    "title": "Teaching",
-    "section": "Dublin City University",
-    "text": "Dublin City University\nSimulation for Finance (MS455) — 2017\nAn introduction to probabilistic simulation methods and their applications in quantitative finance, covering Monte Carlo methods, stochastic processes, and the pricing of financial derivatives.\n\nCourse notes (PDF)"
+    "objectID": "research.html#functional-differential-equations",
+    "href": "research.html#functional-differential-equations",
+    "title": "Research",
+    "section": "Functional Differential Equations",
+    "text": "Functional Differential Equations\nMy doctoral research studied the qualitative behaviour of Volterra integral and functional differential equations, including the growth and blow-up of solutions in superlinear systems, large fluctuations in stochastic systems, and convergence rates to equilibrium.\n\n\n\nSimulations illustrating the sharpness of almost sure asymptotic bounds on solutions for nonlinear stochastic FDEs developed in the works below (see Appleby and Patterson, AMC (2021) for details)."
   },
   {
     "objectID": "maths-of-evolution.html",
@@ -105,32 +105,74 @@
     "text": "Recommended Reading\n\nStrogatz, S. H. (2001). Nonlinear Dynamics and Chaos. Westview Press.\nDiekmann, O. (2004). A beginner’s guide to adaptive dynamics. Banach Center Publications, 63, 47–86.\nNowak, M. A. (2006). Evolutionary Dynamics: Exploring the Equations of Life. Harvard University Press."
   },
   {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research",
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
     "section": "",
-    "text": "My research lies at the interface of nonlinear dynamics, stochastic analysis, and mathematical modelling. My graduate work examined qualitative properties of nonlinear differential systems with memory and subject to random noise, with a focus on growth rates and blow-up of solutions in both deterministic and stochastic systems. My postdoctoral and subsequent research has applied mathematical methods — including dynamical systems, stochastic particle systems, and partial and integro-differential equations — to interdisciplinary collaborations in ecology, developmental biology, and epidemiology. See the Publications page for a full list of papers."
+    "text": "Teaching is one of the most enjoyable parts of my job, and I am committed to teaching to the highest standard possible; my teaching statement outlines my teaching philosophy in more detail. Below are some materials related to courses I have taught and developed. Typos and corrections in any course materials are always welcome!"
   },
   {
-    "objectID": "research.html#mathematical-ecology",
-    "href": "research.html#mathematical-ecology",
-    "title": "Research",
-    "section": "Mathematical Ecology",
-    "text": "Mathematical Ecology\nMy ecology research focuses on spatial models of vegetation dynamics (especially forest-savanna ecosystems), alternative stable states, and critical transitions (abrupt regime shifts). Central themes are understanding how spatial heterogeneity and noise interact to shape the stability landscapes of ecosystems, and developing early-warning indicators for impending transitions.\n\n\n\nA1–A4: Comparison of waves of invasion in the stochastic model versus the solution of the integro-differential equations (IDEs) governing the law of the stochastic model. B1–B2: Front pinning in an interacting particle system versus solution of governing IDEs (heterogeneous medium). B3: Solutions overlaid with bifurcation diagram of the non-spatial system."
+    "objectID": "teaching.html#durham-university",
+    "href": "teaching.html#durham-university",
+    "title": "Teaching",
+    "section": "Durham University",
+    "text": "Durham University\n\n\n\nComputational Mathematics II (MATH2731) — Winter 2025\nA hands-on introduction to numerical analysis and scientific computing, covering algorithms for root-finding, interpolation, numerical integration, and the numerical solution of ordinary and partial differential equations.\n\nCourse notes (HTML)\n\nThis course is assessed by weekly computational lab reports and e-assessments (50%), and a computational project grounded in one of the research areas of the department (50%).\n\n\n\n\n\nFractal boundaries between convergence regions of Newton’s root-finding method.\n\n\n\n\n\n\n\n\nAdvanced Mathematical Biology IV (MATH4411) — Winter 2023, 2024, 2025\nAn advanced course in the mathematical modelling of biological systems. Michaelmas term covers stochastic models, including simulating and analysing discrete-state Markov processes, reaction-diffusion processes, and stochastic differential equations.\n\nMichaelmas term notes 2025 (HTML)\nMichaelmas term notes 2024 (PDF)\nCourse GitHub page (code)\n\nEpiphany term covers continuum-mechanical models of biological media, including non-Newtonian fluids, solids, and viscoelastic media.\n\n\n\n\n\nStochastic Turing patterns in a Schnakenberg reaction-diffusion system."
   },
   {
-    "objectID": "research.html#mathematical-epidemiology-malaria",
-    "href": "research.html#mathematical-epidemiology-malaria",
-    "title": "Research",
-    "section": "Mathematical Epidemiology: Malaria",
-    "text": "Mathematical Epidemiology: Malaria\nI work on mathematical modelling of malaria at both the population and within-host scales. Using age-structured PDE frameworks, my collaborators and I modelled the accumulation of anti-malaria immunity in humans and its consequences for parasite evolution and vaccine design. In terms of within-host dynamics of malaria, I have worked on the question of how immune pressures shape the evolution of parasite transmission investment.\n\n\n\nLeft: Optimal nonconstant and constant parasite investment strategies from our within-host mathematical model with immune response. Right: Comparison of temporal host infectiousness profiles for the optimal strategies."
+    "objectID": "teaching.html#brandeis-university",
+    "href": "teaching.html#brandeis-university",
+    "title": "Teaching",
+    "section": "Brandeis University",
+    "text": "Brandeis University\nDifferential Equations — Summer 2020\nAn introduction to ordinary differential equations from a dynamical systems perspective, covering qualitative methods, phase plane analysis, and applications.\nText: Blanchard, P., Devaney, R. L., & Hall, G. R. (2012). Differential Equations (4th ed.). Brooks/Cole.\nProbability — Fall 2019\nA rigorous introduction to probability theory, covering sample spaces, random variables, distributions, expectation, limit theorems, and applications.\n\nCourse notes (PDF)\n\nText: Ross, S. M. (2012). A First Course in Probability. Pearson.\nMultivariable Calculus — Spring 2019\nAn introduction to calculus in several variables, covering partial differentiation, multiple integration, vector fields, and the theorems of Green, Stokes, and Gauss.\n\nCourse notes (PDF)\n\nText: Marsden, J. E., & Tromba, A. (2011). Vector Calculus. W. H. Freeman."
   },
   {
-    "objectID": "research.html#functional-differential-equations",
-    "href": "research.html#functional-differential-equations",
-    "title": "Research",
-    "section": "Functional Differential Equations",
-    "text": "Functional Differential Equations\nMy doctoral research studied the qualitative behaviour of Volterra integral and functional differential equations, including the growth and blow-up of solutions in superlinear systems, large fluctuations in stochastic systems, and convergence rates to equilibrium.\n\n\n\nSimulations illustrating the sharpness of almost sure asymptotic bounds on solutions for nonlinear stochastic FDEs developed in the works below (see Appleby and Patterson, AMC (2021) for details)."
+    "objectID": "teaching.html#dublin-city-university",
+    "href": "teaching.html#dublin-city-university",
+    "title": "Teaching",
+    "section": "Dublin City University",
+    "text": "Dublin City University\nSimulation for Finance (MS455) — 2017\nAn introduction to probabilistic simulation methods and their applications in quantitative finance, covering Monte Carlo methods, stochastic processes, and the pricing of financial derivatives.\n\nCourse notes (PDF)"
+  },
+  {
+    "objectID": "maths-of-coexistence.html",
+    "href": "maths-of-coexistence.html",
+    "title": "The Mathematics of Coexistence",
+    "section": "",
+    "text": "The following project proposal is for fourth-year students taking the Mathematical Sciences final-year undergraduate project module for the academic year 2026/2027."
+  },
+  {
+    "objectID": "maths-of-coexistence.html#overview",
+    "href": "maths-of-coexistence.html#overview",
+    "title": "The Mathematics of Coexistence",
+    "section": "Overview",
+    "text": "Overview\nHow can hundreds of species coexist when they compete for the same limited resources? Classical ecological theory — the competitive exclusion principle — predicts that two species cannot stably coexist on a single limiting resource; the stronger competitor will always drive the other to extinction. Yet real ecosystems display extraordinary biodiversity. Resolving this apparent contradiction is one of the central challenges of theoretical ecology, and mathematics is at its heart.\nThis project explores Modern Coexistence Theory (MCT), a powerful mathematical framework developed by Peter Chesson that provides a systematic way to decompose and quantify the mechanisms that allow species to coexist. The theory identifies two broad classes of mechanism: stabilizing mechanisms, which strengthen the tendency of each species to recover when rare (niche differentiation, the storage effect, relative nonlinearity of competition), and equalizing mechanisms, which reduce fitness differences between species. Stable coexistence requires that stabilizing effects are strong enough to overcome any fitness inequalities.\nA central tool is invasion analysis: a community is said to support coexistence if every species, when introduced at low density into a community of its competitors, has a positive per-capita growth rate — the invasion growth rate. This condition translates into concrete mathematical inequalities that can be derived and analysed using the tools of dynamical systems theory. Students will formulate, analyse, and simulate ecological models of competing populations to understand when and why these conditions hold.\nPossible directions for the project include:\n\nHow do temporal fluctuations in the environment promote coexistence through the storage effect, and how can this be made mathematically precise?\nUnder what conditions does spatial heterogeneity allow more species to coexist than resources, overcoming competitive exclusion?\nWhat determines the maximum number of coexisting species in a given environment, and how does this depend on the structure of competitive interactions?\nHow do nonlinear competitive interactions generate stable coexistence through relative nonlinearity of competition?"
+  },
+  {
+    "objectID": "maths-of-coexistence.html#techniques",
+    "href": "maths-of-coexistence.html#techniques",
+    "title": "The Mathematics of Coexistence",
+    "section": "Techniques",
+    "text": "Techniques\nStudents will use a combination of analytical and computational methods:\n\nOrdinary differential equations and ecological modelling (Lotka–Volterra competition, resource-competition models)\nInvasion analysis and per-capita growth rates\nPhase portraits, stability analysis, and linearisation\nBifurcation analysis\nNumerical simulation (MATLAB or Python)"
+  },
+  {
+    "objectID": "maths-of-coexistence.html#mode-of-operation-and-evidence-of-learning",
+    "href": "maths-of-coexistence.html#mode-of-operation-and-evidence-of-learning",
+    "title": "The Mathematics of Coexistence",
+    "section": "Mode of Operation and Evidence of Learning",
+    "text": "Mode of Operation and Evidence of Learning\nThis project is research-oriented in its mode of operation. Students will read modern research papers on coexistence theory and develop a working understanding of the current state of the art — including recent extensions and open problems in the field. Key ideas and results from the literature will be discussed in regular meetings, and students will be expected to engage critically with the mathematical arguments in the papers they read.\nStudents will write code in MATLAB or Python to simulate competition models, compute invasion growth rates, and visualise the outcomes of coexistence mechanisms across parameter space. They will apply dynamical systems methods — including stability analysis, phase plane techniques, and bifurcation theory — to analyse models both by hand and computationally. Evidence of learning will be demonstrated through a written project report that presents mathematical derivations, numerical results, and a critical discussion of the biological implications."
+  },
+  {
+    "objectID": "maths-of-coexistence.html#prerequisites",
+    "href": "maths-of-coexistence.html#prerequisites",
+    "title": "The Mathematics of Coexistence",
+    "section": "Prerequisites",
+    "text": "Prerequisites\nStudents should be familiar with basic concepts in differential equations and dynamical systems. Prior coding experience and an interest in mathematical modelling in the applied sciences would be helpful. The project is particularly well suited to students who have taken Mathematical Biology III or Dynamical Systems III."
+  },
+  {
+    "objectID": "maths-of-coexistence.html#recommended-reading",
+    "href": "maths-of-coexistence.html#recommended-reading",
+    "title": "The Mathematics of Coexistence",
+    "section": "Recommended Reading",
+    "text": "Recommended Reading\n\nStrogatz, S. H. (2001). Nonlinear Dynamics and Chaos. Westview Press.\nChesson, P. (2000). Mechanisms of maintenance of species diversity. Annual Review of Ecology and Systematics, 31, 343–366.\nBarabás, G., D’Andrea, R., & Stump, S. M. (2018). Chesson’s coexistence theory. Ecological Monographs, 88(3), 277–303.\nKot, M. (2001). Elements of Mathematical Ecology. Cambridge University Press."
   },
   {
     "objectID": "publications.html",
