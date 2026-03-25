@@ -193,9 +193,10 @@ window.Quarto = {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#overview" id="toc-overview" class="nav-link active" data-scroll-target="#overview">Overview</a></li>
+  <li><a href="#overview-and-group-project" id="toc-overview-and-group-project" class="nav-link active" data-scroll-target="#overview-and-group-project">Overview and Group Project</a></li>
   <li><a href="#techniques" id="toc-techniques" class="nav-link" data-scroll-target="#techniques">Techniques</a></li>
   <li><a href="#mode-of-operation-and-evidence-of-learning" id="toc-mode-of-operation-and-evidence-of-learning" class="nav-link" data-scroll-target="#mode-of-operation-and-evidence-of-learning">Mode of Operation and Evidence of Learning</a></li>
+  <li><a href="#individual-project" id="toc-individual-project" class="nav-link" data-scroll-target="#individual-project">Individual Project</a></li>
   <li><a href="#prerequisites" id="toc-prerequisites" class="nav-link" data-scroll-target="#prerequisites">Prerequisites</a></li>
   <li><a href="#recommended-reading" id="toc-recommended-reading" class="nav-link" data-scroll-target="#recommended-reading">Recommended Reading</a></li>
   </ul>
@@ -208,16 +209,15 @@ window.Quarto = {
 
 
 
-<p><em>The following project proposal is for <strong>third-year students</strong> taking the mathematical sciences final-year undergraduate project module for the academic year 2025/2026.</em></p>
+<p><em>The following project proposal is for <strong>third-year students</strong> taking the mathematical sciences final-year undergraduate project module for the academic year 2026/2027.</em></p>
 <hr>
-<section id="overview" class="level2">
-<h2 class="anchored" data-anchor-id="overview">Overview</h2>
-<p>This project explores the theoretical foundations and practical applications of <em>numerical bifurcation analysis</em>, an essential technique for understanding how the qualitative behaviour of dynamical systems evolves as system parameters change. The first phase of the project will focus on the theoretical foundations of bifurcation theory. Students will study fixed points and their stability, and learn how to classify bifurcation types — including saddle-node, pitchfork, and Hopf bifurcations — using techniques from dynamical systems theory. Students will also encounter more advanced objects such as stable and unstable manifolds and homoclinic and heteroclinic connections. A key focus will be on numerical techniques for computing bifurcation diagrams, including <strong>pseudo-arclength continuation</strong> and <strong>deflation algorithms</strong>.</p>
-<p>The project’s second phase will focus on the application of these methods to mathematical models from physics and biology, such as predator-prey models, chemical oscillators, and reaction-diffusion equations. Students will use professional numerical continuation software — such as <strong>AUTO</strong>, <strong>MATCONT</strong>, or <strong>BifurcationKit.jl</strong> — to generate bifurcation diagrams and investigate how the qualitative behaviour of these models changes as parameters are varied.</p>
+<section id="overview-and-group-project" class="level2">
+<h2 class="anchored" data-anchor-id="overview-and-group-project">Overview and Group Project</h2>
+<p>This project explores the theoretical foundations and practical applications of <em>numerical bifurcation analysis</em>, an essential technique for understanding how the qualitative behaviour of dynamical systems evolves as system parameters change. The group phase of the project will focus on the theoretical foundations of bifurcation theory. Students will study fixed points and their stability, and learn how to classify bifurcation types — including saddle-node, pitchfork, and Hopf bifurcations — using techniques from dynamical systems theory. Students will also encounter more advanced objects such as stable and unstable manifolds and homoclinic and heteroclinic connections. A key focus will be on numerical techniques for computing bifurcation diagrams, including <strong>pseudo-arclength continuation</strong> and <strong>deflation algorithms</strong>.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="assets/bif_diagrams.svg" class="img-fluid figure-img" style="width:90.0%"></p>
-<figcaption>Bifurcation diagrams of a forest-savanna model from “Pattern formation in Mesic Savannas”, Patterson et al.&nbsp;(2024). The forest tree birth rate (<span class="math inline">\(\alpha\)</span>) is on the <span class="math inline">\(x\)</span>-axis in all panels. The resource parameter is denoted by <span class="math inline">\(r\)</span>, and <span class="math inline">\(G\)</span> is the proportion of the ecosystem occupied by grass. Panels A/B are one-parameter bifurcation diagrams: red curves are stable steady-state solutions, black curves are unstable; blue dots mark transcritical bifurcations and magenta dots mark saddle-node bifurcations. Panel C is a two-parameter bifurcation diagram: blue curves trace transcritical bifurcations and magenta curves trace saddle-node bifurcations, colliding at a cusp point (a codimension-two bifurcation).</figcaption>
+<figcaption>Bifurcation diagrams of a forest-savanna model from “Pattern formation in Mesic Savannas”, Patterson et al.&nbsp;(2024). The forest tree birth rate (<span class="math inline">\(\alpha\)</span>) is on the <span class="math inline">\(x\)</span>-axis in all panels. The resource parameter is denoted by <span class="math inline">\(r\)</span>, and <span class="math inline">\(G\)</span> is the proportion of the ecosystem occupied by grass. Panels A/B are one-parameter bifurcation diagrams: red curves are stable steady-state solutions, black curves are unstable; blue dots mark transcritical bifurcations and magenta dots mark saddle-node bifurcations. Panel C is a two-parameter bifurcation diagram: blue curves trace transcritical bifurcations and magenta curves trace saddle-node bifurcations.</figcaption>
 </figure>
 </div>
 </section>
@@ -234,12 +234,15 @@ window.Quarto = {
 </section>
 <section id="mode-of-operation-and-evidence-of-learning" class="level2">
 <h2 class="anchored" data-anchor-id="mode-of-operation-and-evidence-of-learning">Mode of Operation and Evidence of Learning</h2>
-<p>This project is <strong>coding-intensive</strong> in its mode of operation. Students will read <strong>modern research papers</strong> on bifurcation theory and numerical continuation, and develop a working understanding of the current state of the art in computational dynamical systems — including both the mathematical foundations and practical implementation of continuation methods. Key ideas and results from the literature will be discussed in regular meetings, and students will be expected to engage critically with the mathematical arguments in the papers they read.</p>
-<p>Students will <strong>implement numerical methods</strong> and use professional continuation software (AUTO, MATCONT, or BifurcationKit.jl) to generate and analyse bifurcation diagrams for a range of dynamical systems. They will <strong>apply dynamical systems theory</strong> — including stability analysis, phase plane techniques, and bifurcation classification — both analytically and computationally. Evidence of learning will be demonstrated through a written project report presenting mathematical derivations, computational results, and a critical discussion of the findings.</p>
+<p>This project is <strong>coding-intensive</strong>. Students will read and discuss concepts and present their results in weekly meetings. Students will <strong>implement numerical methods</strong> and use continuation software (AUTO, MATCONT, or BifurcationKit.jl) to generate and analyse bifurcation diagrams for a range of dynamical systems. They will <strong>apply dynamical systems theory</strong> — including stability analysis, phase plane techniques, and bifurcation classification — both analytically and computationally. Evidence of learning will be demonstrated through a written project report presenting mathematical derivations, computational results, and a critical discussion of the findings.</p>
+</section>
+<section id="individual-project" class="level2">
+<h2 class="anchored" data-anchor-id="individual-project">Individual Project</h2>
+<p>The project’s individual phase will focus on the application of these methods to mathematical models from physics and biology, such as predator-prey models, chemical oscillators, and reaction-diffusion equations. Students will use professional numerical continuation software — such as <strong>AUTO</strong>, <strong>MATCONT</strong>, or <strong>BifurcationKit.jl</strong> — to generate bifurcation diagrams and investigate how the qualitative behaviour of these models changes as parameters are varied.</p>
 </section>
 <section id="prerequisites" class="level2">
 <h2 class="anchored" data-anchor-id="prerequisites">Prerequisites</h2>
-<p>Students should be familiar with basic concepts in differential equations and dynamical systems. This is a <strong>coding-intensive</strong> project, and prior programming experience is essential. The project is particularly well suited to students who have taken <strong>Numerical Analysis II</strong>.</p>
+<p>Students should be familiar with basic concepts in differential equations and dynamical systems. This is a <strong>coding-intensive</strong> project, and prior programming experience is essential. The project is particularly well suited to students who have taken <strong>Computational Mathematics II</strong>.</p>
 </section>
 <section id="recommended-reading" class="level2">
 <h2 class="anchored" data-anchor-id="recommended-reading">Recommended Reading</h2>

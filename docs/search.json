@@ -4,14 +4,14 @@
     "href": "numerical-bifurcation-analysis.html",
     "title": "Numerical Bifurcation Analysis",
     "section": "",
-    "text": "The following project proposal is for third-year students taking the mathematical sciences final-year undergraduate project module for the academic year 2025/2026."
+    "text": "The following project proposal is for third-year students taking the mathematical sciences final-year undergraduate project module for the academic year 2026/2027."
   },
   {
-    "objectID": "numerical-bifurcation-analysis.html#overview",
-    "href": "numerical-bifurcation-analysis.html#overview",
+    "objectID": "numerical-bifurcation-analysis.html#overview-and-group-project",
+    "href": "numerical-bifurcation-analysis.html#overview-and-group-project",
     "title": "Numerical Bifurcation Analysis",
-    "section": "Overview",
-    "text": "Overview\nThis project explores the theoretical foundations and practical applications of numerical bifurcation analysis, an essential technique for understanding how the qualitative behaviour of dynamical systems evolves as system parameters change. The first phase of the project will focus on the theoretical foundations of bifurcation theory. Students will study fixed points and their stability, and learn how to classify bifurcation types — including saddle-node, pitchfork, and Hopf bifurcations — using techniques from dynamical systems theory. Students will also encounter more advanced objects such as stable and unstable manifolds and homoclinic and heteroclinic connections. A key focus will be on numerical techniques for computing bifurcation diagrams, including pseudo-arclength continuation and deflation algorithms.\nThe project’s second phase will focus on the application of these methods to mathematical models from physics and biology, such as predator-prey models, chemical oscillators, and reaction-diffusion equations. Students will use professional numerical continuation software — such as AUTO, MATCONT, or BifurcationKit.jl — to generate bifurcation diagrams and investigate how the qualitative behaviour of these models changes as parameters are varied.\n\n\n\nBifurcation diagrams of a forest-savanna model from “Pattern formation in Mesic Savannas”, Patterson et al. (2024). The forest tree birth rate (\\(\\alpha\\)) is on the \\(x\\)-axis in all panels. The resource parameter is denoted by \\(r\\), and \\(G\\) is the proportion of the ecosystem occupied by grass. Panels A/B are one-parameter bifurcation diagrams: red curves are stable steady-state solutions, black curves are unstable; blue dots mark transcritical bifurcations and magenta dots mark saddle-node bifurcations. Panel C is a two-parameter bifurcation diagram: blue curves trace transcritical bifurcations and magenta curves trace saddle-node bifurcations, colliding at a cusp point (a codimension-two bifurcation)."
+    "section": "Overview and Group Project",
+    "text": "Overview and Group Project\nThis project explores the theoretical foundations and practical applications of numerical bifurcation analysis, an essential technique for understanding how the qualitative behaviour of dynamical systems evolves as system parameters change. The group phase of the project will focus on the theoretical foundations of bifurcation theory. Students will study fixed points and their stability, and learn how to classify bifurcation types — including saddle-node, pitchfork, and Hopf bifurcations — using techniques from dynamical systems theory. Students will also encounter more advanced objects such as stable and unstable manifolds and homoclinic and heteroclinic connections. A key focus will be on numerical techniques for computing bifurcation diagrams, including pseudo-arclength continuation and deflation algorithms.\n\n\n\nBifurcation diagrams of a forest-savanna model from “Pattern formation in Mesic Savannas”, Patterson et al. (2024). The forest tree birth rate (\\(\\alpha\\)) is on the \\(x\\)-axis in all panels. The resource parameter is denoted by \\(r\\), and \\(G\\) is the proportion of the ecosystem occupied by grass. Panels A/B are one-parameter bifurcation diagrams: red curves are stable steady-state solutions, black curves are unstable; blue dots mark transcritical bifurcations and magenta dots mark saddle-node bifurcations. Panel C is a two-parameter bifurcation diagram: blue curves trace transcritical bifurcations and magenta curves trace saddle-node bifurcations."
   },
   {
     "objectID": "numerical-bifurcation-analysis.html#techniques",
@@ -25,14 +25,21 @@
     "href": "numerical-bifurcation-analysis.html#mode-of-operation-and-evidence-of-learning",
     "title": "Numerical Bifurcation Analysis",
     "section": "Mode of Operation and Evidence of Learning",
-    "text": "Mode of Operation and Evidence of Learning\nThis project is coding-intensive in its mode of operation. Students will read modern research papers on bifurcation theory and numerical continuation, and develop a working understanding of the current state of the art in computational dynamical systems — including both the mathematical foundations and practical implementation of continuation methods. Key ideas and results from the literature will be discussed in regular meetings, and students will be expected to engage critically with the mathematical arguments in the papers they read.\nStudents will implement numerical methods and use professional continuation software (AUTO, MATCONT, or BifurcationKit.jl) to generate and analyse bifurcation diagrams for a range of dynamical systems. They will apply dynamical systems theory — including stability analysis, phase plane techniques, and bifurcation classification — both analytically and computationally. Evidence of learning will be demonstrated through a written project report presenting mathematical derivations, computational results, and a critical discussion of the findings."
+    "text": "Mode of Operation and Evidence of Learning\nThis project is coding-intensive. Students will read and discuss concepts and present their results in weekly meetings. Students will implement numerical methods and use continuation software (AUTO, MATCONT, or BifurcationKit.jl) to generate and analyse bifurcation diagrams for a range of dynamical systems. They will apply dynamical systems theory — including stability analysis, phase plane techniques, and bifurcation classification — both analytically and computationally. Evidence of learning will be demonstrated through a written project report presenting mathematical derivations, computational results, and a critical discussion of the findings."
+  },
+  {
+    "objectID": "numerical-bifurcation-analysis.html#individual-project",
+    "href": "numerical-bifurcation-analysis.html#individual-project",
+    "title": "Numerical Bifurcation Analysis",
+    "section": "Individual Project",
+    "text": "Individual Project\nThe project’s individual phase will focus on the application of these methods to mathematical models from physics and biology, such as predator-prey models, chemical oscillators, and reaction-diffusion equations. Students will use professional numerical continuation software — such as AUTO, MATCONT, or BifurcationKit.jl — to generate bifurcation diagrams and investigate how the qualitative behaviour of these models changes as parameters are varied."
   },
   {
     "objectID": "numerical-bifurcation-analysis.html#prerequisites",
     "href": "numerical-bifurcation-analysis.html#prerequisites",
     "title": "Numerical Bifurcation Analysis",
     "section": "Prerequisites",
-    "text": "Prerequisites\nStudents should be familiar with basic concepts in differential equations and dynamical systems. This is a coding-intensive project, and prior programming experience is essential. The project is particularly well suited to students who have taken Numerical Analysis II."
+    "text": "Prerequisites\nStudents should be familiar with basic concepts in differential equations and dynamical systems. This is a coding-intensive project, and prior programming experience is essential. The project is particularly well suited to students who have taken Computational Mathematics II."
   },
   {
     "objectID": "numerical-bifurcation-analysis.html#recommended-reading",
@@ -214,7 +221,7 @@
     "href": "people.html#master-thesis-and-final-year-project-topics",
     "title": "Projects & Students",
     "section": "Master Thesis and Final Year Project Topics",
-    "text": "Master Thesis and Final Year Project Topics\n\nThe Mathematics of Evolution (Masters/4th year, 2025/2026)\nThe Mathematics of Coexistence (Masters/4th year, 2026/2027)\nNumerical Bifurcation Analysis (BSc/3rd year, 2025/2026)"
+    "text": "Master Thesis and Final Year Project Topics\n\nThe Mathematics of Evolution (Masters/4th year, 2025/2026)\nThe Mathematics of Coexistence (Masters/4th year, 2026/2027)\nNumerical Bifurcation Analysis (BSc/3rd year, 2026/2027)"
   },
   {
     "objectID": "people.html#undergraduate-summer-research",
