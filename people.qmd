@@ -13,6 +13,7 @@ Durham offers a number of fully-funded PhD scholarships each year, including the
 
 - [The Mathematics of Evolution](maths-of-evolution.qmd) *(Masters/4th year, 2025/2026)*
 - [The Mathematics of Coexistence](maths-of-coexistence.qmd) *(Masters/4th year, 2026/2027)*
+- [Numerical Bifurcation Analysis](numerical-bifurcation-analysis.qmd) *(BSc/3rd year, 2025/2026)*
 
 ## Undergraduate Summer Research
 

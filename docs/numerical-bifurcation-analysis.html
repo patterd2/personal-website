@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>The Mathematics of Evolution – Denis Patterson</title>
+<title>Numerical Bifurcation Analysis – Denis Patterson</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -172,7 +172,7 @@ window.Quarto = {
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
     <div class="quarto-title column-body">
-      <h1 class="title">The Mathematics of Evolution</h1>
+      <h1 class="title">Numerical Bifurcation Analysis</h1>
                       </div>
   </div>
     
@@ -195,6 +195,7 @@ window.Quarto = {
   <ul>
   <li><a href="#overview" id="toc-overview" class="nav-link active" data-scroll-target="#overview">Overview</a></li>
   <li><a href="#techniques" id="toc-techniques" class="nav-link" data-scroll-target="#techniques">Techniques</a></li>
+  <li><a href="#mode-of-operation-and-evidence-of-learning" id="toc-mode-of-operation-and-evidence-of-learning" class="nav-link" data-scroll-target="#mode-of-operation-and-evidence-of-learning">Mode of Operation and Evidence of Learning</a></li>
   <li><a href="#prerequisites" id="toc-prerequisites" class="nav-link" data-scroll-target="#prerequisites">Prerequisites</a></li>
   <li><a href="#recommended-reading" id="toc-recommended-reading" class="nav-link" data-scroll-target="#recommended-reading">Recommended Reading</a></li>
   </ul>
@@ -207,46 +208,45 @@ window.Quarto = {
 
 
 
-<p><em>The following project proposal is for <strong>fourth-year students</strong> taking the Mathematical Sciences final-year project module for the academic year 2025/2026.</em></p>
+<p><em>The following project proposal is for <strong>third-year students</strong> taking the mathematical sciences final-year undergraduate project module for the academic year 2025/2026.</em></p>
 <hr>
 <section id="overview" class="level2">
 <h2 class="anchored" data-anchor-id="overview">Overview</h2>
-<p>How does mathematical thinking help us understand evolutionary diversity and change? This project explores how trait variations affect populations over time using the tools of dynamical systems and mathematical modelling. Students will develop and analyse mathematical models of evolution, applying techniques including differential equations, phase plane analysis, stability analysis, and bifurcation theory, alongside computational tools for numerical exploration.</p>
-<p>The central mathematical framework of this project is <strong>adaptive dynamics</strong> — a set of tools for studying how traits evolve through mutation and natural selection. Starting from ecological models of interacting populations, adaptive dynamics provides a systematic way to ask: which traits are favoured by selection, and under what conditions does evolution lead to a single dominant strategy versus the coexistence of multiple strategies?</p>
-<p>A key object of study is the <strong>pairwise invasibility plot (PIP)</strong>, which encodes whether a rare mutant with trait value <span class="math inline">\(c_m\)</span> can invade a population resident at trait value <span class="math inline">\(c_r\)</span>. The sign structure of the PIP determines the long-run evolutionary outcome: convergence to an evolutionary attractor, divergence from an evolutionary repellor, or <strong>evolutionary branching</strong> — the splitting of a population into two distinct strategies.</p>
+<p>This project explores the theoretical foundations and practical applications of <em>numerical bifurcation analysis</em>, an essential technique for understanding how the qualitative behaviour of dynamical systems evolves as system parameters change. The first phase of the project will focus on the theoretical foundations of bifurcation theory. Students will study fixed points and their stability, and learn how to classify bifurcation types — including saddle-node, pitchfork, and Hopf bifurcations — using techniques from dynamical systems theory. Students will also encounter more advanced objects such as stable and unstable manifolds and homoclinic and heteroclinic connections. A key focus will be on numerical techniques for computing bifurcation diagrams, including <strong>pseudo-arclength continuation</strong> and <strong>deflation algorithms</strong>.</p>
+<p>The project’s second phase will focus on the application of these methods to mathematical models from physics and biology, such as predator-prey models, chemical oscillators, and reaction-diffusion equations. Students will use professional numerical continuation software — such as <strong>AUTO</strong>, <strong>MATCONT</strong>, or <strong>BifurcationKit.jl</strong> — to generate bifurcation diagrams and investigate how the qualitative behaviour of these models changes as parameters are varied.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="assets/pip_plots.png" class="img-fluid figure-img" style="width:70.0%"></p>
-<figcaption>A pairwise invasibility plot illustrating evolutionary attractors, repellors, and the conditions for evolutionary branching and dimorphic coexistence.</figcaption>
+<p><img src="assets/bif_diagrams.svg" class="img-fluid figure-img" style="width:90.0%"></p>
+<figcaption>Bifurcation diagrams of a forest-savanna model from “Pattern formation in Mesic Savannas”, Patterson et al.&nbsp;(2024). The forest tree birth rate (<span class="math inline">\(\alpha\)</span>) is on the <span class="math inline">\(x\)</span>-axis in all panels. The resource parameter is denoted by <span class="math inline">\(r\)</span>, and <span class="math inline">\(G\)</span> is the proportion of the ecosystem occupied by grass. Panels A/B are one-parameter bifurcation diagrams: red curves are stable steady-state solutions, black curves are unstable; blue dots mark transcritical bifurcations and magenta dots mark saddle-node bifurcations. Panel C is a two-parameter bifurcation diagram: blue curves trace transcritical bifurcations and magenta curves trace saddle-node bifurcations, colliding at a cusp point (a codimension-two bifurcation).</figcaption>
 </figure>
 </div>
-<p>Possible directions for the project include:</p>
-<ul>
-<li>Under what conditions does natural selection lead to a single evolutionarily stable strategy, and when does it lead to evolutionary branching and the emergence of diversity?</li>
-<li>How do cooperation and competition between individuals shape the evolution of strategies in social or ecological settings?</li>
-<li>How does within-host competition shape the evolution of pathogen virulence?</li>
-</ul>
 </section>
 <section id="techniques" class="level2">
 <h2 class="anchored" data-anchor-id="techniques">Techniques</h2>
 <p>Students will use a combination of analytical and computational methods:</p>
 <ul>
-<li>Ordinary and/or partial differential equations and ecological modelling</li>
-<li>Phase portraits, stability and linearisation</li>
-<li>Bifurcation analysis</li>
-<li>Numerical simulation (MATLAB or Python)</li>
+<li>Ordinary and partial differential equations and dynamical systems theory</li>
+<li>Fixed points, stability analysis, and linearisation</li>
+<li>Classification of bifurcation types (saddle-node, pitchfork, Hopf)</li>
+<li>Pseudo-arclength continuation and deflation algorithms</li>
+<li>Numerical continuation software (AUTO, MATCONT, or BifurcationKit.jl)</li>
 </ul>
+</section>
+<section id="mode-of-operation-and-evidence-of-learning" class="level2">
+<h2 class="anchored" data-anchor-id="mode-of-operation-and-evidence-of-learning">Mode of Operation and Evidence of Learning</h2>
+<p>This project is <strong>coding-intensive</strong> in its mode of operation. Students will read <strong>modern research papers</strong> on bifurcation theory and numerical continuation, and develop a working understanding of the current state of the art in computational dynamical systems — including both the mathematical foundations and practical implementation of continuation methods. Key ideas and results from the literature will be discussed in regular meetings, and students will be expected to engage critically with the mathematical arguments in the papers they read.</p>
+<p>Students will <strong>implement numerical methods</strong> and use professional continuation software (AUTO, MATCONT, or BifurcationKit.jl) to generate and analyse bifurcation diagrams for a range of dynamical systems. They will <strong>apply dynamical systems theory</strong> — including stability analysis, phase plane techniques, and bifurcation classification — both analytically and computationally. Evidence of learning will be demonstrated through a written project report presenting mathematical derivations, computational results, and a critical discussion of the findings.</p>
 </section>
 <section id="prerequisites" class="level2">
 <h2 class="anchored" data-anchor-id="prerequisites">Prerequisites</h2>
-<p>Students should be familiar with basic concepts in differential equations and dynamical systems. Prior coding experience and an interest in mathematical modelling in the applied sciences would be helpful. The project is particularly well suited to students who have taken <strong>Mathematical Biology III</strong> or <strong>Dynamical Systems III</strong>.</p>
+<p>Students should be familiar with basic concepts in differential equations and dynamical systems. This is a <strong>coding-intensive</strong> project, and prior programming experience is essential. The project is particularly well suited to students who have taken <strong>Numerical Analysis II</strong>.</p>
 </section>
 <section id="recommended-reading" class="level2">
 <h2 class="anchored" data-anchor-id="recommended-reading">Recommended Reading</h2>
 <ul>
-<li>Strogatz, S. H. (2001). <em>Nonlinear Dynamics and Chaos</em>. Westview Press.</li>
-<li>Diekmann, O. (2004). A beginner’s guide to adaptive dynamics. <em>Banach Center Publications</em>, 63, 47–86.</li>
-<li>Nowak, M. A. (2006). <em>Evolutionary Dynamics: Exploring the Equations of Life</em>. Harvard University Press.</li>
+<li>Strogatz, S. H. (2001). <em>Nonlinear Dynamics and Chaos</em>. Westview Press. <em>(introductory text on nonlinear dynamics)</em></li>
+<li>Seydel, R. (2009). <em>Practical Bifurcation and Stability Analysis</em> (3rd ed., Vol. 5). Springer.</li>
+<li>Veltz, R. (2020). BifurcationKit.jl. [<a href="https://github.com/bifurcationkit/BifurcationKit.jl">GitHub</a>]</li>
 </ul>
 
 
