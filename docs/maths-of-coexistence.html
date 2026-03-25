@@ -179,12 +179,12 @@ background: #1e2d3d;
 
 
 
-<p><em>The following project proposal is for <strong>fourth-year students</strong> taking the Mathematical Sciences final-year undergraduate project module for the academic year 2026/2027.</em></p>
+<p><em>The following project proposal is for <strong>fourth-year students</strong> taking the Mathematical Sciences final-year project module for the academic year 2026/2027.</em></p>
 <hr>
 <section id="overview" class="level2">
 <h2 class="anchored" data-anchor-id="overview">Overview</h2>
-<p>How can hundreds of species coexist when they compete for the same limited resources? Classical ecological theory — the <strong>competitive exclusion principle</strong> — predicts that two species cannot stably coexist on a single limiting resource; the stronger competitor will always drive the other to extinction. Yet real ecosystems display extraordinary biodiversity. Resolving this apparent contradiction is one of the central challenges of theoretical ecology, and mathematics is at its heart.</p>
-<p>This project explores <strong>Modern Coexistence Theory (MCT)</strong>, a powerful mathematical framework developed by Peter Chesson that provides a systematic way to decompose and quantify the mechanisms that allow species to coexist. The theory identifies two broad classes of mechanism: <strong>stabilizing mechanisms</strong>, which strengthen the tendency of each species to recover when rare (niche differentiation, the storage effect, relative nonlinearity of competition), and <strong>equalizing mechanisms</strong>, which reduce fitness differences between species. Stable coexistence requires that stabilizing effects are strong enough to overcome any fitness inequalities.</p>
+<p>How can hundreds of species coexist when they compete for the same limited resources? Classical ecological theory — the <strong>competitive exclusion principle</strong> — predicts that two species cannot stably coexist on a single limiting resource; the stronger competitor will always drive the other to extinction. Yet real ecosystems display extraordinary biodiversity. Resolving this apparent contradiction is one of the central challenges of theoretical ecology, and mathematics is at its heart. Questions about coexistence are fundamental in modern research in microbiology, conservation biology, cancer biology, and many other fields.</p>
+<p>This project explores <strong>Modern Coexistence Theory (MCT)</strong>, a powerful mathematical framework that provides a systematic way to decompose and quantify the mechanisms that allow species to coexist. The theory identifies two broad classes of mechanism: <strong>stabilizing mechanisms</strong>, which strengthen the tendency of each species to recover when rare (niche differentiation, the storage effect, relative nonlinearity of competition), and <strong>equalizing mechanisms</strong>, which reduce fitness differences between species. Stable coexistence requires that stabilizing effects are strong enough to overcome any fitness inequalities.</p>
 <p>A central tool is <strong>invasion analysis</strong>: a community is said to support coexistence if every species, when introduced at low density into a community of its competitors, has a positive per-capita growth rate — the <strong>invasion growth rate</strong>. This condition translates into concrete mathematical inequalities that can be derived and analysed using the tools of dynamical systems theory. Students will formulate, analyse, and simulate ecological models of competing populations to understand when and why these conditions hold.</p>
 <p>Possible directions for the project include:</p>
 <ul>
@@ -192,13 +192,20 @@ background: #1e2d3d;
 <li>Under what conditions does spatial heterogeneity allow more species to coexist than resources, overcoming competitive exclusion?</li>
 <li>What determines the <strong>maximum number of coexisting species</strong> in a given environment, and how does this depend on the structure of competitive interactions?</li>
 <li>How do nonlinear competitive interactions generate stable coexistence through <strong>relative nonlinearity of competition</strong>?</li>
+<li>Research on mathematical models for systems studied by collaborators in Durham’s Department of Biosciences, e.g.&nbsp;metal-sensitive microbial communities or c.&nbsp;elegans populations.</li>
 </ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="assets/lv_competition.png" class="img-fluid figure-img" style="width:85.0%"></p>
+<figcaption>The four qualitative outcomes of two-species Lotka–Volterra competition, determined by the relative positions of the zero-net-growth isoclines. Stable coexistence (A) requires each species to limit its own growth more than it limits its competitor’s; the other cases yield competitive exclusion (B, C) or founder-controlled bistability (D).</figcaption>
+</figure>
+</div>
 </section>
 <section id="techniques" class="level2">
 <h2 class="anchored" data-anchor-id="techniques">Techniques</h2>
 <p>Students will use a combination of analytical and computational methods:</p>
 <ul>
-<li>Ordinary differential equations and ecological modelling (Lotka–Volterra competition, resource-competition models)</li>
+<li>Ordinary and partial differential equations (incl.&nbsp;Lotka–Volterra competition, resource-competition models)</li>
 <li>Invasion analysis and per-capita growth rates</li>
 <li>Phase portraits, stability analysis, and linearisation</li>
 <li>Bifurcation analysis</li>
@@ -208,11 +215,11 @@ background: #1e2d3d;
 <section id="mode-of-operation-and-evidence-of-learning" class="level2">
 <h2 class="anchored" data-anchor-id="mode-of-operation-and-evidence-of-learning">Mode of Operation and Evidence of Learning</h2>
 <p>This project is research-oriented in its mode of operation. Students will read <strong>modern research papers</strong> on coexistence theory and develop a working understanding of the current state of the art — including recent extensions and open problems in the field. Key ideas and results from the literature will be discussed in regular meetings, and students will be expected to engage critically with the mathematical arguments in the papers they read.</p>
-<p>Students will <strong>write code</strong> in MATLAB or Python to simulate competition models, compute invasion growth rates, and visualise the outcomes of coexistence mechanisms across parameter space. They will <strong>apply dynamical systems methods</strong> — including stability analysis, phase plane techniques, and bifurcation theory — to analyse models both by hand and computationally. Evidence of learning will be demonstrated through a written project report that presents mathematical derivations, numerical results, and a critical discussion of the biological implications.</p>
+<p>Students will <strong>write code</strong> in MATLAB or Python to simulate competition models, compute invasion growth rates, and visualise the outcomes of coexistence mechanisms across parameter space. They will <strong>apply dynamical systems methods</strong> — including stability analysis, phase plane techniques, and bifurcation theory — to analyse models both by hand and computationally.</p>
 </section>
 <section id="prerequisites" class="level2">
 <h2 class="anchored" data-anchor-id="prerequisites">Prerequisites</h2>
-<p>Students should be familiar with basic concepts in differential equations and dynamical systems. Prior coding experience and an interest in mathematical modelling in the applied sciences would be helpful. The project is particularly well suited to students who have taken <strong>Mathematical Biology III</strong> or <strong>Dynamical Systems III</strong>.</p>
+<p>Students should be familiar with basic concepts in differential equations and dynamical systems. Prior coding experience and an interest in mathematical modelling in the applied sciences would be helpful. The project is particularly well suited to students who have taken <strong>Mathematical Biology III</strong>.</p>
 </section>
 <section id="recommended-reading" class="level2">
 <h2 class="anchored" data-anchor-id="recommended-reading">Recommended Reading</h2>
