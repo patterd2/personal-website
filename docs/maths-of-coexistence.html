@@ -188,25 +188,24 @@ background: #1e2d3d;
 
 
 
-<p><em>The following project proposal is for <strong>fourth-year students</strong> taking the Mathematical Sciences final-year project module for the academic year 2026/2027.</em></p>
+<p><em>The following project proposal is for <strong>fourth-year (MMath) students</strong> taking the Mathematical Sciences final-year project module for the academic year 2026/2027.</em></p>
 <hr>
 <section id="overview" class="level2">
 <h2 class="anchored" data-anchor-id="overview">Overview</h2>
 <p>How can hundreds of species coexist when they compete for the same limited resources? Classical ecological theory, the <strong>competitive exclusion principle</strong>, predicts that two species cannot stably coexist on a single limiting resource; the stronger competitor will always drive the other to extinction. Yet real ecosystems display extraordinary biodiversity. Resolving this apparent contradiction is one of the central challenges of theoretical ecology, and mathematics is at its heart. Questions about coexistence are fundamental in modern research in microbiology, conservation biology, cancer biology, and many other fields.</p>
-<p>This project explores <strong>Modern Coexistence Theory (MCT)</strong>, a powerful mathematical framework that provides a systematic way to decompose and quantify the mechanisms that allow species to coexist. The theory identifies two broad classes of mechanism: <strong>stabilizing mechanisms</strong>, which strengthen the tendency of each species to recover when rare (niche differentiation, the storage effect, relative nonlinearity of competition), and <strong>equalizing mechanisms</strong>, which reduce fitness differences between species. Stable coexistence requires that stabilizing effects are strong enough to overcome any fitness inequalities.</p>
-<p>A central tool is <strong>invasion analysis</strong>: a community is said to support coexistence if every species, when introduced at low density into a community of its competitors, has a positive per-capita growth rate — the <strong>invasion growth rate</strong>. This condition translates into concrete mathematical inequalities that can be derived and analysed using the tools of dynamical systems theory. Students will formulate, analyse, and simulate ecological models of competing populations to understand when and why these conditions hold.</p>
+<p>A central tool in coexistence theory is <strong>invasion analysis</strong>: a community is said to support coexistence if every species, when introduced at low density into a community of its competitors, has a positive per-capita growth rate, known as the <strong>invasion growth rate</strong>. This condition translates into concrete mathematical conditions that can be derived and analysed using the tools of dynamical systems theory. Students will formulate, analyse, and simulate ecological models of competing populations to understand when and why these conditions hold.</p>
+<p>Among other topics, this project will explore <strong>Modern Coexistence Theory (MCT)</strong>, a powerful mathematical framework that provides a systematic way to decompose and quantify the mechanisms that allow species to coexist. The theory identifies two broad classes of mechanism: <strong>stabilizing mechanisms</strong>, which strengthen the tendency of each species to recover when rare (niche differentiation, the storage effect, relative nonlinearity of competition), and <strong>equalizing mechanisms</strong>, which reduce fitness differences between species. Stable coexistence requires that stabilizing effects are strong enough to overcome any fitness inequalities. While powerful, MCT can be challenging to apply to more complex mathematical models and real-world systems, and there are many open research questions about how to extend the theory to more general settings.</p>
 <p>Possible directions for the project include:</p>
 <ul>
 <li>Research on mathematical models for systems studied by collaborators in Durham’s Department of Biosciences, e.g.&nbsp;metal-sensitive microbial communities or c.&nbsp;elegans populations.</li>
-<li>How do temporal fluctuations in the environment promote coexistence through the <strong>storage effect</strong>, and how can this be made mathematically precise?</li>
-<li>Under what conditions does spatial heterogeneity allow more species to coexist than resources, overcoming competitive exclusion?</li>
-<li>What determines the maximum number of coexisting species in a given environment, and how does this depend on the structure of competitive interactions?</li>
-<li>Coexistence in large communities via Random Matrix Theory: how do the properties of random interaction networks affect the likelihood of coexistence?</li>
+<li>How can MCT be extended to more complex models, e.g.&nbsp;with nonlinear functional responses, spatial structure, or temporal fluctuations? Can we derive general mathematical conditions for coexistence in these settings?</li>
+<li>Under what conditions does spatial heterogeneity allow more species to coexist than resources, overcoming competitive exclusion? [PDEs/spatial models]</li>
+<li>Coexistence in large communities via Random Matrix Theory: How do the properties of random interaction networks affect the likelihood of coexistence?</li>
 </ul>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="assets/lv_competition.png" class="img-fluid figure-img" style="width:85.0%"></p>
-<figcaption>The four qualitative outcomes of two-species Lotka–Volterra competition, determined by the relative positions of the zero-net-growth isoclines. Stable coexistence (A) requires each species to limit its own growth more than it limits its competitor’s; the other cases yield competitive exclusion (B, C) or founder-controlled bistability (D).</figcaption>
+<figcaption>The four qualitative outcomes of two-species Lotka–Volterra competition, determined by the relative positions of the zero-net-growth isoclines. Stable coexistence (A) requires each species to limit its own growth more than it limits its competitor’s; the other cases yield competitive exclusion (B, C) or bistability where the first species to establish wins (D).</figcaption>
 </figure>
 </div>
 </section>
@@ -214,7 +213,7 @@ background: #1e2d3d;
 <h2 class="anchored" data-anchor-id="techniques">Techniques</h2>
 <p>Students will use a combination of analytical and computational methods:</p>
 <ul>
-<li>Ordinary and partial differential equations (incl.&nbsp;Lotka–Volterra competition, resource-competition models)</li>
+<li>Ordinary and partial differential equations (incl.&nbsp;Lotka–Volterra, resource-competition, and consumer-resource models)</li>
 <li>Invasion analysis and per-capita growth rates</li>
 <li>Phase portraits, stability analysis, and linearisation</li>
 <li>Bifurcation analysis</li>
@@ -223,12 +222,12 @@ background: #1e2d3d;
 </section>
 <section id="mode-of-operation-and-evidence-of-learning" class="level2">
 <h2 class="anchored" data-anchor-id="mode-of-operation-and-evidence-of-learning">Mode of Operation and Evidence of Learning</h2>
-<p>Students will read modern research papers on coexistence theory and engage with recent developments and open problems in the field. Key ideas and results from the literature will be discussed in regular meetings, and students will be expected to engage critically with the mathematical arguments in the papers they read.</p>
-<p>Students will write code in MATLAB or Python to simulate models, compute invasion growth rates, and visualise the outcomes of coexistence mechanisms across parameter space. They will apply dynamical systems methods, including stability analysis, phase plane techniques, and bifurcation theory, to analyse models both by hand and computationally.</p>
+<p>Students will read modern research papers on coexistence theory and engage with recent developments and open problems in the field, including identifying key research questions and gaps. Key ideas and results from the literature will be discussed in regular meetings, and students will be expected to engage critically with the mathematical arguments in the papers they read.</p>
+<p>Students will write code in MATLAB or Python to simulate models, compute invasion growth rates, and visualise the outcomes of coexistence mechanisms across parameter space. They will apply dynamical systems methods, including stability analysis, phase plane techniques, and bifurcation theory, to analyse models both analytically and computationally.</p>
 </section>
 <section id="prerequisites" class="level2">
 <h2 class="anchored" data-anchor-id="prerequisites">Prerequisites</h2>
-<p>Students should be familiar with basic concepts in differential equations and dynamical systems. Prior coding experience and an interest in mathematical modelling in the applied sciences would be helpful. The project is aimed at students who have taken <strong>Mathematical Biology III</strong>.</p>
+<p>This project is intended for students with prior coding experience and an interest in <strong>research in mathematical biology</strong>. Students should be comfortable with concepts and techniques in differential equations and dynamical systems; <strong>Mathematical Biology III</strong> or demonstrated proficiency in dynamical systems is a required prerequisite.</p>
 </section>
 <section id="recommended-reading" class="level2">
 <h2 class="anchored" data-anchor-id="recommended-reading">Recommended Reading</h2>

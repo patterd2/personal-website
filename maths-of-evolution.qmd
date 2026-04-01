@@ -3,7 +3,7 @@ title: "The Mathematics of Evolution"
 toc: true
 ---
 
-*The following project proposal is for **fourth-year students** taking the Mathematical Sciences final-year undergraduate project module for the academic year 2025/2026.*
+*The following project proposal is for **fourth-year students** taking the Mathematical Sciences final-year project module for the academic year 2025/2026.*
 
 ---
 
