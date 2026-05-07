@@ -23,13 +23,13 @@ Students will use a combination of analytical and computational methods:
 - Pseudo-arclength continuation and deflation algorithms
 - Numerical continuation software (AUTO, MATCONT, or BifurcationKit.jl)
 
-## Mode of Operation and Evidence of Learning
-
-This project is **coding-intensive**. Students will read and discuss concepts and present their results in weekly meetings. Students will implement numerical methods and use continuation software (AUTO, MATCONT, or BifurcationKit.jl) to generate and analyse bifurcation diagrams for a range of dynamical systems. They will apply dynamical systems theory, including stability analysis, phase plane techniques, and bifurcation classification, both analytically and computationally. Evidence of learning will be demonstrated through a written project report presenting mathematical derivations, computational results, and a discussion of the findings.
-
 ## Individual Project
 
 The project's individual phase will focus on the application of these methods to mathematical models from physics and biology, such as predator-prey models, chemical oscillators, and reaction-diffusion equations. Students will use numerical continuation software (AUTO, MATCONT, or BifurcationKit.jl) to generate bifurcation diagrams and investigate how the qualitative behaviour of these models changes as parameters are varied.
+
+## Mode of Operation and Evidence of Learning (group and individual phases)
+
+This project is **coding-intensive**. Students will read and discuss concepts and present their results in weekly meetings. Students will implement numerical methods and use continuation software (AUTO, MATCONT, or BifurcationKit.jl) to generate and analyse bifurcation diagrams for a range of dynamical systems. They will apply dynamical systems theory, including stability analysis, phase plane techniques, and bifurcation classification, both analytically and computationally. Evidence of learning will be demonstrated through mathematical derivations, computational results, and discussion of the findings through both oral and written formats.
 
 ## Prerequisites
 
