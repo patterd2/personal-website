@@ -11,9 +11,10 @@ Durham offers a number of fully-funded PhD scholarships each year, including the
 
 ## Master Thesis and Final Year Project Topics
 
-- [The Mathematics of Evolution](maths-of-evolution.qmd) *(Masters/4th year, 2025/2026)*
 - [The Mathematics of Coexistence](maths-of-coexistence.qmd) *(Masters/4th year, 2026/2027)*
+  - *Students (2025/26):* Matthew Black (MMath), Daniel Brown (MMath), Romina Brown (MMath), Alice Henman (MMath), Lydia Purcell (MMath)
 - [Numerical Bifurcation Analysis](numerical-bifurcation-analysis.qmd) *(BSc/3rd year, 2026/2027)*
+- [The Mathematics of Evolution](maths-of-evolution.qmd) *(Masters/4th year, 2025/2026)*
 
 ## Undergraduate Summer Research
 
@@ -36,7 +37,7 @@ Recent funding for summer students has come from the [London Mathematical Societ
 | Student | Year | Project | Funder | Next position |
 |:--------|:-----|:--------|:-------|:--------------|
 | **Thomas Shaw** | 3rd | Microbial coexistence with resource toxicity | Durham Biophysical Sciences Institute | PhD student, Oxford |
-| **Ewan Green** | 3rd | Mathematical modelling of microbial coexistence | London Mathematical Society | |
+| **Ewan Green** | 3rd | Mathematical modelling of microbial coexistence | London Mathematical Society | PhD student, Oxford |
 
 ### Princeton & Brandeis
 
