@@ -11,8 +11,8 @@ body-classes: publications-page
 
 **J. Paige, <u>D. D. Patterson</u> and A. Hastings** (2026).
 Towards a unified framework for multiple stable states in ecological systems.
-*Preprint*.
-[[arXiv](https://arxiv.org/abs/2605.05966)]
+*Journal of the Royal Society Interface*, 23, 20260479.
+[[Open Access](https://doi.org/10.1098/rsif.2026.0479)] [[arXiv](https://arxiv.org/abs/2605.05966)]
 
 **K. Shen, S. A. Levin and <u>D. D. Patterson</u>** (2026).
 Spatial modeling of forest-savanna bistability: impacts of fire dynamics and timescale separation.
@@ -160,8 +160,8 @@ In *Recent Advances in Delay Differential and Difference Equations*, Springer Pr
 
 **J. Paige, <u>D. D. Patterson</u> and A. Hastings** (2026).
 Towards a unified framework for multiple stable states in ecological systems.
-*Preprint*.
-[[arXiv](https://arxiv.org/abs/2605.05966)]
+*Journal of the Royal Society Interface*, 23, 20260479.
+[[Open Access](https://doi.org/10.1098/rsif.2026.0479)] [[arXiv](https://arxiv.org/abs/2605.05966)]
 
 **K. Shen, S. A. Levin and <u>D. D. Patterson</u>** (2026).
 Spatial modeling of forest-savanna bistability: impacts of fire dynamics and timescale separation.

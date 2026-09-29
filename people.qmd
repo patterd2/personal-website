@@ -9,6 +9,10 @@ I am actively working on projects in microbial ecology (dynamical systems/applie
 
 Durham offers a number of fully-funded PhD scholarships each year, including the [DDTF](https://www.durham.ac.uk/research/doctoral/ddtf/), [CSC scholarships](https://www.csc.edu.cn/), and SCOPE schemes, among other opportunities. I am happy to discuss these with interested applicants — please contact me directly. The application deadline(s) for this funding is usually in January.
 
+## Current PhD Students
+
+- **Alice Henman** *(from October 2026)* — Heilbronn Institute for Mathematical Research studentship
+
 ## Master Thesis and Final Year Project Topics
 
 - [The Mathematics of Coexistence](maths-of-coexistence.qmd) *(Masters/4th year, 2026/2027)*
