@@ -8,11 +8,12 @@ Teaching is one of the most enjoyable parts of my job, and I am committed to tea
 
 :::: {layout="[50, 50]" layout-valign="top"}
 ::: {}
-**Computational Mathematics II (MATH2731)** — *Winter 2025*
+**Computational Mathematics II (MATH2731)** — *Winter 2025, 2026*
 
 A hands-on introduction to numerical analysis and scientific computing, covering algorithms for root-finding, interpolation, numerical integration, and the numerical solution of ordinary and partial differential equations.
 
 - [Course notes](https://patterd2.github.io/MATH2731_Comp_Math/) (HTML)
+- [Slides on writing mathematics well](assets/durham-mathematical-writing-slides.pdf) (PDF)
 
 This course is assessed by weekly computational lab reports and e-assessments (50%), and a computational project grounded in one of the research areas of the department (50%).
 :::
